@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.2" version="1" serialNumber="urn:uuid:8d5aa0ad-03af-40f8-9934-ce1f7b02c8d5">
+  <metadata>
+    <timestamp>2021-06-16T11:40:02-04:00</timestamp>
+    <tools>
+      <tool>
+        <vendor>anchore</vendor>
+        <name>syft</name>
+        <version>0.17.0</version>
+      </tool>
+    </tools>
+    <component type="file">
+      <name>/Users/swigmore/workspace/paketo-buildpacks/samples/go/mod</name>
+      <version></version>
+    </component>
+  </metadata>
+  <components>
+    <component type="library">
+      <name>github.com/gorilla/mux</name>
+      <version>v1.8.0</version>
+      <purl>pkg:golang/github.com/gorilla/mux@v1.8.0</purl>
+    </component>
+  </components>
+</bom>

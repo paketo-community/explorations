@@ -1,0 +1,83 @@
+{
+  "artifacts": [
+    {
+      "id": "9f2b2169-790a-4e29-9f80-e961dd6f9e17",
+      "name": "maven-wrapper",
+      "version": "0.5.6",
+      "type": "java-archive",
+      "foundBy": "java-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/java/maven/.mvn/wrapper/maven-wrapper.jar"
+        }
+      ],
+      "licenses": [],
+      "language": "java",
+      "cpes": [
+        "cpe:2.3:a:maven_wrapper:maven-wrapper:0.5.6:*:*:*:*:java:*:*",
+        "cpe:2.3:a:maven-wrapper:maven_wrapper:0.5.6:*:*:*:*:maven:*:*",
+        "cpe:2.3:a:maven-wrapper:maven_wrapper:0.5.6:*:*:*:*:java:*:*",
+        "cpe:2.3:a:maven_wrapper:maven_wrapper:0.5.6:*:*:*:*:maven:*:*",
+        "cpe:2.3:a:maven-wrapper:maven-wrapper:0.5.6:*:*:*:*:java:*:*",
+        "cpe:2.3:a:maven-wrapper:maven-wrapper:0.5.6:*:*:*:*:maven:*:*",
+        "cpe:2.3:a:maven_wrapper:maven-wrapper:0.5.6:*:*:*:*:maven:*:*",
+        "cpe:2.3:a:maven_wrapper:maven_wrapper:0.5.6:*:*:*:*:java:*:*",
+        "cpe:2.3:a:maven_wrapper:maven-wrapper:0.5.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:maven-wrapper:maven-wrapper:0.5.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:maven_wrapper:0.5.6:*:*:*:*:java:*:*",
+        "cpe:2.3:a:*:maven_wrapper:0.5.6:*:*:*:*:maven:*:*",
+        "cpe:2.3:a:maven-wrapper:maven_wrapper:0.5.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:maven-wrapper:0.5.6:*:*:*:*:maven:*:*",
+        "cpe:2.3:a:*:maven-wrapper:0.5.6:*:*:*:*:java:*:*",
+        "cpe:2.3:a:maven_wrapper:maven_wrapper:0.5.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:maven_wrapper:0.5.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:maven-wrapper:0.5.6:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:maven/io.takari/maven-wrapper@0.5.6",
+      "metadataType": "JavaMetadata",
+      "metadata": {
+        "virtualPath": "/Users/swigmore/workspace/paketo-buildpacks/samples/java/maven/.mvn/wrapper/maven-wrapper.jar",
+        "manifest": {
+          "main": {
+            "Archiver-Version": "Provisio Archiver",
+            "Build-Jdk": "1.8.0_232",
+            "Built-By": "manfred",
+            "Created-By": "Takari Inc.",
+            "Implementation-Title": "maven-wrapper",
+            "Implementation-Vendor-Id": "io.takari",
+            "Implementation-Version": "0.5.6",
+            "Manifest-Version": "1.0",
+            "Specification-Title": "maven-wrapper",
+            "Specification-Version": "0.5.6"
+          }
+        },
+        "pomProperties": {
+          "path": "META-INF/maven/io.takari/maven-wrapper/pom.properties",
+          "name": "",
+          "groupId": "io.takari",
+          "artifactId": "maven-wrapper",
+          "version": "0.5.6",
+          "extraFields": {}
+        }
+      }
+    }
+  ],
+  "artifactRelationships": [],
+  "source": {
+    "type": "directory",
+    "target": "/Users/swigmore/workspace/paketo-buildpacks/samples/java/maven"
+  },
+  "distro": {
+    "name": "",
+    "version": "",
+    "idLike": ""
+  },
+  "descriptor": {
+    "name": "syft",
+    "version": "0.17.0"
+  },
+  "schema": {
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-1.1.0.json"
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.2" version="1" serialNumber="urn:uuid:d3a56415-88a1-4d12-99ec-022fc60e81b0">
+  <metadata>
+    <timestamp>2021-06-16T15:36:24-04:00</timestamp>
+    <tools>
+      <tool>
+        <vendor>anchore</vendor>
+        <name>syft</name>
+        <version>0.17.0</version>
+      </tool>
+    </tools>
+    <component type="file">
+      <name>/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/no-package-manager</name>
+      <version></version>
+    </component>
+  </metadata>
+  <components></components>
+</bom>

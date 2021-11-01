@@ -1,0 +1,43 @@
+{
+  "artifacts": [
+    {
+      "id": "53567206-58a3-48fc-a817-1bb8170c55b3",
+      "name": "github.com/gorilla/mux",
+      "version": "v1.8.0",
+      "type": "go-module",
+      "foundBy": "go-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/go/mod/go.mod"
+        }
+      ],
+      "licenses": [],
+      "language": "go",
+      "cpes": [
+        "cpe:2.3:a:github.com/gorilla/mux:github.com/gorilla/mux:v1.8.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:github.com/gorilla/mux:v1.8.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:golang/github.com/gorilla/mux@v1.8.0",
+      "metadataType": "",
+      "metadata": null
+    }
+  ],
+  "artifactRelationships": [],
+  "source": {
+    "type": "directory",
+    "target": "/Users/swigmore/workspace/paketo-buildpacks/samples/go/mod"
+  },
+  "distro": {
+    "name": "",
+    "version": "",
+    "idLike": ""
+  },
+  "descriptor": {
+    "name": "syft",
+    "version": "0.17.0"
+  },
+  "schema": {
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-1.1.0.json"
+  }
+}
