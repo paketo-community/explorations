@@ -1,0 +1,19 @@
+{
+  "remote": null,
+  "local": [
+    {
+      "name": "helper",
+      "metadata": {
+        "layer": "helper",
+        "names": [
+          "ca-certificates-helper"
+        ],
+        "version": "2.2.0"
+      },
+      "buildpacks": {
+        "id": "paketo-buildpacks/ca-certificates",
+        "version": "2.2.0"
+      }
+    }
+  ]
+}

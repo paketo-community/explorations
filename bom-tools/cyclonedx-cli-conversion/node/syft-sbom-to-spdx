@@ -1,0 +1,6762 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: node-no-pkg-manager-sha256:a0bcf4c5ab00b15fab0ff7d6c6694521b85598e9066dd89401a0d2735ce89b49
+DocumentNamespace: http://spdx.org/spdxdocs/node-no-pkg-manager-sha256:a0bcf4c5ab00b15fab0ff7d6c6694521b85598e9066dd89401a0d2735ce89b49-21552f86-66ea-4a08-a663-b74e94081845
+Creator: Tool: CycloneDX-CLI
+Created: 2021-06-15T19:44:44Z
+
+PackageName: JSONStream
+SPDXID: SPDXRef-1
+PackageVersion: 1.3.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-1
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/JSONStream@1.3.5
+
+PackageName: abbrev
+SPDXID: SPDXRef-2
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-2
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/abbrev@1.1.1
+
+PackageName: adduser
+SPDXID: SPDXRef-3
+PackageVersion: 3.116ubuntu1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/adduser@3.116ubuntu1?arch=all
+
+PackageName: agent-base
+SPDXID: SPDXRef-4
+PackageVersion: 4.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-3
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/agent-base@4.2.1
+
+PackageName: agent-base
+SPDXID: SPDXRef-5
+PackageVersion: 4.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-4
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/agent-base@4.3.0
+
+PackageName: agentkeepalive
+SPDXID: SPDXRef-6
+PackageVersion: 3.5.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-5
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/agentkeepalive@3.5.2
+
+PackageName: ajv
+SPDXID: SPDXRef-7
+PackageVersion: 6.12.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-6
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ajv@6.12.6
+
+PackageName: ansi-align
+SPDXID: SPDXRef-8
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-7
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansi-align@2.0.0
+
+PackageName: ansi-regex
+SPDXID: SPDXRef-9
+PackageVersion: 2.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-8
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansi-regex@2.1.1
+
+PackageName: ansi-regex
+SPDXID: SPDXRef-10
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-9
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansi-regex@3.0.0
+
+PackageName: ansi-regex
+SPDXID: SPDXRef-11
+PackageVersion: 4.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-10
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansi-regex@4.1.0
+
+PackageName: ansi-regex
+SPDXID: SPDXRef-12
+PackageVersion: 4.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-11
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansi-regex@4.1.0
+
+PackageName: ansi-regex
+SPDXID: SPDXRef-13
+PackageVersion: 4.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-12
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansi-regex@4.1.0
+
+PackageName: ansi-styles
+SPDXID: SPDXRef-14
+PackageVersion: 3.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-13
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansi-styles@3.2.1
+
+PackageName: ansicolors
+SPDXID: SPDXRef-15
+PackageVersion: 0.3.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-14
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansicolors@0.3.2
+
+PackageName: ansistyles
+SPDXID: SPDXRef-16
+PackageVersion: 0.1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-15
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ansistyles@0.1.3
+
+PackageName: aproba
+SPDXID: SPDXRef-17
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-16
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aproba@1.2.0
+
+PackageName: aproba
+SPDXID: SPDXRef-18
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-17
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aproba@1.2.0
+
+PackageName: aproba
+SPDXID: SPDXRef-19
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-18
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aproba@1.2.0
+
+PackageName: aproba
+SPDXID: SPDXRef-20
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-19
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aproba@1.2.0
+
+PackageName: aproba
+SPDXID: SPDXRef-21
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-20
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aproba@1.2.0
+
+PackageName: aproba
+SPDXID: SPDXRef-22
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-21
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aproba@2.0.0
+
+PackageName: apt
+SPDXID: SPDXRef-23
+PackageVersion: 1.6.13
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-22
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/apt@1.6.13?arch=amd64
+
+PackageName: archy
+SPDXID: SPDXRef-24
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-23
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/archy@1.0.0
+
+PackageName: are-we-there-yet
+SPDXID: SPDXRef-25
+PackageVersion: 1.1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-24
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/are-we-there-yet@1.1.4
+
+PackageName: asap
+SPDXID: SPDXRef-26
+PackageVersion: 2.0.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-25
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/asap@2.0.6
+
+PackageName: asn1
+SPDXID: SPDXRef-27
+PackageVersion: 0.2.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-26
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/asn1@0.2.4
+
+PackageName: assert-plus
+SPDXID: SPDXRef-28
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-27
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/assert-plus@1.0.0
+
+PackageName: asynckit
+SPDXID: SPDXRef-29
+PackageVersion: 0.4.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-28
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/asynckit@0.4.0
+
+PackageName: aws-sign2
+SPDXID: SPDXRef-30
+PackageVersion: 0.7.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-29
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aws-sign2@0.7.0
+
+PackageName: aws4
+SPDXID: SPDXRef-31
+PackageVersion: 1.8.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-30
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/aws4@1.8.0
+
+PackageName: balanced-match
+SPDXID: SPDXRef-32
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-31
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/balanced-match@1.0.0
+
+PackageName: base-files
+SPDXID: SPDXRef-33
+PackageVersion: 10.1ubuntu2.10
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/base-files@10.1ubuntu2.10?arch=amd64
+
+PackageName: base-passwd
+SPDXID: SPDXRef-34
+PackageVersion: 3.5.44
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-32
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/base-passwd@3.5.44?arch=amd64
+
+PackageName: bash
+SPDXID: SPDXRef-35
+PackageVersion: 4.4.18-2ubuntu1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/bash@4.4.18-2ubuntu1.2?arch=amd64
+
+PackageName: bcrypt-pbkdf
+SPDXID: SPDXRef-36
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-33
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/bcrypt-pbkdf@1.0.2
+
+PackageName: bin-links
+SPDXID: SPDXRef-37
+PackageVersion: 1.1.8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-34
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/bin-links@1.1.8
+
+PackageName: bluebird
+SPDXID: SPDXRef-38
+PackageVersion: 3.5.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-35
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/bluebird@3.5.5
+
+PackageName: boxen
+SPDXID: SPDXRef-39
+PackageVersion: 1.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-36
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/boxen@1.3.0
+
+PackageName: brace-expansion
+SPDXID: SPDXRef-40
+PackageVersion: 1.1.11
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-37
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/brace-expansion@1.1.11
+
+PackageName: bsdutils
+SPDXID: SPDXRef-41
+PackageVersion: 1:2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-38
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/bsdutils@1:2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: buffer-from
+SPDXID: SPDXRef-42
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-39
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/buffer-from@1.0.0
+
+PackageName: builtins
+SPDXID: SPDXRef-43
+PackageVersion: 1.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-40
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/builtins@1.0.3
+
+PackageName: byline
+SPDXID: SPDXRef-44
+PackageVersion: 5.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-41
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/byline@5.0.0
+
+PackageName: byte-size
+SPDXID: SPDXRef-45
+PackageVersion: 5.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-42
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/byte-size@5.0.1
+
+PackageName: bzip2
+SPDXID: SPDXRef-46
+PackageVersion: 1.0.6-8.1ubuntu0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/bzip2@1.0.6-8.1ubuntu0.2?arch=amd64
+
+PackageName: ca-certificates
+SPDXID: SPDXRef-47
+PackageVersion: 20210119~18.04.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-43
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/ca-certificates@20210119~18.04.1?arch=all
+
+PackageName: cacache
+SPDXID: SPDXRef-48
+PackageVersion: 12.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-44
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cacache@12.0.3
+
+PackageName: call-limit
+SPDXID: SPDXRef-49
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-45
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/call-limit@1.1.1
+
+PackageName: camelcase
+SPDXID: SPDXRef-50
+PackageVersion: 4.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-46
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/camelcase@4.1.0
+
+PackageName: camelcase
+SPDXID: SPDXRef-51
+PackageVersion: 5.3.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-47
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/camelcase@5.3.1
+
+PackageName: capture-stack-trace
+SPDXID: SPDXRef-52
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-48
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/capture-stack-trace@1.0.0
+
+PackageName: caseless
+SPDXID: SPDXRef-53
+PackageVersion: 0.12.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-49
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/caseless@0.12.0
+
+PackageName: chalk
+SPDXID: SPDXRef-54
+PackageVersion: 2.4.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-50
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/chalk@2.4.1
+
+PackageName: chownr
+SPDXID: SPDXRef-55
+PackageVersion: 1.1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-51
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/chownr@1.1.4
+
+PackageName: ci-info
+SPDXID: SPDXRef-56
+PackageVersion: 1.6.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-52
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ci-info@1.6.0
+
+PackageName: ci-info
+SPDXID: SPDXRef-57
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-53
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ci-info@2.0.0
+
+PackageName: cidr-regex
+SPDXID: SPDXRef-58
+PackageVersion: 2.0.10
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-54
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cidr-regex@2.0.10
+
+PackageName: cli-boxes
+SPDXID: SPDXRef-59
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-55
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cli-boxes@1.0.0
+
+PackageName: cli-columns
+SPDXID: SPDXRef-60
+PackageVersion: 3.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-56
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cli-columns@3.1.2
+
+PackageName: cli-table3
+SPDXID: SPDXRef-61
+PackageVersion: 0.5.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-57
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cli-table3@0.5.1
+
+PackageName: cliui
+SPDXID: SPDXRef-62
+PackageVersion: 5.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-58
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cliui@5.0.0
+
+PackageName: clone
+SPDXID: SPDXRef-63
+PackageVersion: 1.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-59
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/clone@1.0.4
+
+PackageName: cmd-shim
+SPDXID: SPDXRef-64
+PackageVersion: 3.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-60
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cmd-shim@3.0.3
+
+PackageName: code-point-at
+SPDXID: SPDXRef-65
+PackageVersion: 1.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-61
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/code-point-at@1.1.0
+
+PackageName: color-convert
+SPDXID: SPDXRef-66
+PackageVersion: 1.9.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-62
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/color-convert@1.9.1
+
+PackageName: color-name
+SPDXID: SPDXRef-67
+PackageVersion: 1.1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-63
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/color-name@1.1.3
+
+PackageName: colors
+SPDXID: SPDXRef-68
+PackageVersion: 1.3.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-64
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/colors@1.3.3
+
+PackageName: columnify
+SPDXID: SPDXRef-69
+PackageVersion: 1.5.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-65
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/columnify@1.5.4
+
+PackageName: combined-stream
+SPDXID: SPDXRef-70
+PackageVersion: 1.0.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-66
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/combined-stream@1.0.6
+
+PackageName: concat-map
+SPDXID: SPDXRef-71
+PackageVersion: 0.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-67
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/concat-map@0.0.1
+
+PackageName: concat-stream
+SPDXID: SPDXRef-72
+PackageVersion: 1.6.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-68
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/concat-stream@1.6.2
+
+PackageName: config-chain
+SPDXID: SPDXRef-73
+PackageVersion: 1.1.12
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-69
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/config-chain@1.1.12
+
+PackageName: configstore
+SPDXID: SPDXRef-74
+PackageVersion: 3.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-70
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/configstore@3.1.5
+
+PackageName: console-control-strings
+SPDXID: SPDXRef-75
+PackageVersion: 1.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-71
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/console-control-strings@1.1.0
+
+PackageName: copy-concurrently
+SPDXID: SPDXRef-76
+PackageVersion: 1.0.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-72
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/copy-concurrently@1.0.5
+
+PackageName: core-util-is
+SPDXID: SPDXRef-77
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-73
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/core-util-is@1.0.2
+
+PackageName: coreutils
+SPDXID: SPDXRef-78
+PackageVersion: 8.28-1ubuntu1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/coreutils@8.28-1ubuntu1?arch=amd64
+
+PackageName: create-error-class
+SPDXID: SPDXRef-79
+PackageVersion: 3.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-74
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/create-error-class@3.0.2
+
+PackageName: cross-spawn
+SPDXID: SPDXRef-80
+PackageVersion: 5.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-75
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cross-spawn@5.1.0
+
+PackageName: crypto-random-string
+SPDXID: SPDXRef-81
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-76
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/crypto-random-string@1.0.0
+
+PackageName: cyclist
+SPDXID: SPDXRef-82
+PackageVersion: 0.2.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/cyclist@0.2.2
+
+PackageName: dash
+SPDXID: SPDXRef-83
+PackageVersion: 0.5.8-2.10
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/dash@0.5.8-2.10?arch=amd64
+
+PackageName: dashdash
+SPDXID: SPDXRef-84
+PackageVersion: 1.14.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-77
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/dashdash@1.14.1
+
+PackageName: debconf
+SPDXID: SPDXRef-85
+PackageVersion: 1.5.66ubuntu1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-78
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/debconf@1.5.66ubuntu1?arch=all
+
+PackageName: debianutils
+SPDXID: SPDXRef-86
+PackageVersion: 4.8.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/debianutils@4.8.4?arch=amd64
+
+PackageName: debug
+SPDXID: SPDXRef-87
+PackageVersion: 3.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-79
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/debug@3.1.0
+
+PackageName: debuglog
+SPDXID: SPDXRef-88
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-80
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/debuglog@1.0.1
+
+PackageName: decamelize
+SPDXID: SPDXRef-89
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-81
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/decamelize@1.2.0
+
+PackageName: decode-uri-component
+SPDXID: SPDXRef-90
+PackageVersion: 0.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-82
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/decode-uri-component@0.2.0
+
+PackageName: deep-extend
+SPDXID: SPDXRef-91
+PackageVersion: 0.6.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-83
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/deep-extend@0.6.0
+
+PackageName: defaults
+SPDXID: SPDXRef-92
+PackageVersion: 1.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-84
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/defaults@1.0.3
+
+PackageName: define-properties
+SPDXID: SPDXRef-93
+PackageVersion: 1.1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-85
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/define-properties@1.1.3
+
+PackageName: delayed-stream
+SPDXID: SPDXRef-94
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-86
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/delayed-stream@1.0.0
+
+PackageName: delegates
+SPDXID: SPDXRef-95
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-87
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/delegates@1.0.0
+
+PackageName: detect-indent
+SPDXID: SPDXRef-96
+PackageVersion: 5.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-88
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/detect-indent@5.0.0
+
+PackageName: detect-newline
+SPDXID: SPDXRef-97
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-89
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/detect-newline@2.1.0
+
+PackageName: dezalgo
+SPDXID: SPDXRef-98
+PackageVersion: 1.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-90
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/dezalgo@1.0.3
+
+PackageName: diffutils
+SPDXID: SPDXRef-99
+PackageVersion: 1:3.6-1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/diffutils@1:3.6-1?arch=amd64
+
+PackageName: dot-prop
+SPDXID: SPDXRef-100
+PackageVersion: 4.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-91
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/dot-prop@4.2.1
+
+PackageName: dotenv
+SPDXID: SPDXRef-101
+PackageVersion: 5.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-92
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/dotenv@5.0.1
+
+PackageName: dpkg
+SPDXID: SPDXRef-102
+PackageVersion: 1.19.0.5ubuntu2.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-93
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/dpkg@1.19.0.5ubuntu2.3?arch=amd64
+
+PackageName: duplexer3
+SPDXID: SPDXRef-103
+PackageVersion: 0.1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-94
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/duplexer3@0.1.4
+
+PackageName: duplexify
+SPDXID: SPDXRef-104
+PackageVersion: 3.6.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-95
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/duplexify@3.6.0
+
+PackageName: e2fsprogs
+SPDXID: SPDXRef-105
+PackageVersion: 1.44.1-1ubuntu1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/e2fsprogs@1.44.1-1ubuntu1.3?arch=amd64
+
+PackageName: ecc-jsbn
+SPDXID: SPDXRef-106
+PackageVersion: 0.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-96
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ecc-jsbn@0.1.2
+
+PackageName: editor
+SPDXID: SPDXRef-107
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-97
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/editor@1.0.0
+
+PackageName: emoji-regex
+SPDXID: SPDXRef-108
+PackageVersion: 7.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-98
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/emoji-regex@7.0.3
+
+PackageName: encoding
+SPDXID: SPDXRef-109
+PackageVersion: 0.1.12
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-99
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/encoding@0.1.12
+
+PackageName: end-of-stream
+SPDXID: SPDXRef-110
+PackageVersion: 1.4.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-100
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/end-of-stream@1.4.1
+
+PackageName: env-paths
+SPDXID: SPDXRef-111
+PackageVersion: 2.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-101
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/env-paths@2.2.0
+
+PackageName: err-code
+SPDXID: SPDXRef-112
+PackageVersion: 1.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-102
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/err-code@1.1.2
+
+PackageName: errno
+SPDXID: SPDXRef-113
+PackageVersion: 0.1.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-103
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/errno@0.1.7
+
+PackageName: es-abstract
+SPDXID: SPDXRef-114
+PackageVersion: 1.12.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-104
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/es-abstract@1.12.0
+
+PackageName: es-to-primitive
+SPDXID: SPDXRef-115
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-105
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/es-to-primitive@1.2.0
+
+PackageName: es6-promise
+SPDXID: SPDXRef-116
+PackageVersion: 4.2.8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-106
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/es6-promise@4.2.8
+
+PackageName: es6-promisify
+SPDXID: SPDXRef-117
+PackageVersion: 5.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-107
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/es6-promisify@5.0.0
+
+PackageName: escape-string-regexp
+SPDXID: SPDXRef-118
+PackageVersion: 1.0.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-108
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/escape-string-regexp@1.0.5
+
+PackageName: execa
+SPDXID: SPDXRef-119
+PackageVersion: 0.7.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-109
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/execa@0.7.0
+
+PackageName: extend
+SPDXID: SPDXRef-120
+PackageVersion: 3.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-110
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/extend@3.0.2
+
+PackageName: extsprintf
+SPDXID: SPDXRef-121
+PackageVersion: 1.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-111
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/extsprintf@1.3.0
+
+PackageName: fast-deep-equal
+SPDXID: SPDXRef-122
+PackageVersion: 3.1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-112
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/fast-deep-equal@3.1.3
+
+PackageName: fast-json-stable-stringify
+SPDXID: SPDXRef-123
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-113
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/fast-json-stable-stringify@2.0.0
+
+PackageName: fdisk
+SPDXID: SPDXRef-124
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-114
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/fdisk@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: figgy-pudding
+SPDXID: SPDXRef-125
+PackageVersion: 3.5.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-115
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/figgy-pudding@3.5.1
+
+PackageName: find-npm-prefix
+SPDXID: SPDXRef-126
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-116
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/find-npm-prefix@1.0.2
+
+PackageName: find-up
+SPDXID: SPDXRef-127
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-117
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/find-up@3.0.0
+
+PackageName: find-up
+SPDXID: SPDXRef-128
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-118
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/find-up@3.0.0
+
+PackageName: findutils
+SPDXID: SPDXRef-129
+PackageVersion: 4.6.0+git+20170828-2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/findutils@4.6.0+git+20170828-2?arch=amd64
+
+PackageName: flush-write-stream
+SPDXID: SPDXRef-130
+PackageVersion: 1.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-119
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/flush-write-stream@1.0.3
+
+PackageName: forever-agent
+SPDXID: SPDXRef-131
+PackageVersion: 0.6.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-120
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/forever-agent@0.6.1
+
+PackageName: form-data
+SPDXID: SPDXRef-132
+PackageVersion: 2.3.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-121
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/form-data@2.3.2
+
+PackageName: from2
+SPDXID: SPDXRef-133
+PackageVersion: 1.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-122
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/from2@1.3.0
+
+PackageName: from2
+SPDXID: SPDXRef-134
+PackageVersion: 2.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-123
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/from2@2.3.0
+
+PackageName: fs-minipass
+SPDXID: SPDXRef-135
+PackageVersion: 1.2.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-124
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/fs-minipass@1.2.7
+
+PackageName: fs-vacuum
+SPDXID: SPDXRef-136
+PackageVersion: 1.2.10
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-125
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/fs-vacuum@1.2.10
+
+PackageName: fs-write-stream-atomic
+SPDXID: SPDXRef-137
+PackageVersion: 1.0.10
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-126
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/fs-write-stream-atomic@1.0.10
+
+PackageName: fs.realpath
+SPDXID: SPDXRef-138
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-127
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/fs.realpath@1.0.0
+
+PackageName: function-bind
+SPDXID: SPDXRef-139
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-128
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/function-bind@1.1.1
+
+PackageName: gauge
+SPDXID: SPDXRef-140
+PackageVersion: 2.7.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-129
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/gauge@2.7.4
+
+PackageName: gcc-8-base
+SPDXID: SPDXRef-141
+PackageVersion: 8.4.0-1ubuntu1~18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/gcc-8-base@8.4.0-1ubuntu1~18.04?arch=amd64
+
+PackageName: genfun
+SPDXID: SPDXRef-142
+PackageVersion: 5.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-130
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/genfun@5.0.0
+
+PackageName: gentle-fs
+SPDXID: SPDXRef-143
+PackageVersion: 2.3.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-131
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/gentle-fs@2.3.1
+
+PackageName: get-caller-file
+SPDXID: SPDXRef-144
+PackageVersion: 2.0.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-132
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/get-caller-file@2.0.5
+
+PackageName: get-stream
+SPDXID: SPDXRef-145
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-133
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/get-stream@3.0.0
+
+PackageName: get-stream
+SPDXID: SPDXRef-146
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-134
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/get-stream@3.0.0
+
+PackageName: get-stream
+SPDXID: SPDXRef-147
+PackageVersion: 4.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-135
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/get-stream@4.1.0
+
+PackageName: getpass
+SPDXID: SPDXRef-148
+PackageVersion: 0.1.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-136
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/getpass@0.1.7
+
+PackageName: glob
+SPDXID: SPDXRef-149
+PackageVersion: 7.1.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-137
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/glob@7.1.6
+
+PackageName: global-dirs
+SPDXID: SPDXRef-150
+PackageVersion: 0.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-138
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/global-dirs@0.1.1
+
+PackageName: got
+SPDXID: SPDXRef-151
+PackageVersion: 6.7.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-139
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/got@6.7.1
+
+PackageName: gpgv
+SPDXID: SPDXRef-152
+PackageVersion: 2.2.4-1ubuntu1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-140
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/gpgv@2.2.4-1ubuntu1.4?arch=amd64
+
+PackageName: graceful-fs
+SPDXID: SPDXRef-153
+PackageVersion: 4.2.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-141
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/graceful-fs@4.2.4
+
+PackageName: grep
+SPDXID: SPDXRef-154
+PackageVersion: 3.1-2build1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-142
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/grep@3.1-2build1?arch=amd64
+
+PackageName: gzip
+SPDXID: SPDXRef-155
+PackageVersion: 1.6-5ubuntu1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/gzip@1.6-5ubuntu1?arch=amd64
+
+PackageName: har-schema
+SPDXID: SPDXRef-156
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-143
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/har-schema@2.0.0
+
+PackageName: har-validator
+SPDXID: SPDXRef-157
+PackageVersion: 5.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-144
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/har-validator@5.1.5
+
+PackageName: has
+SPDXID: SPDXRef-158
+PackageVersion: 1.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-145
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/has@1.0.3
+
+PackageName: has-flag
+SPDXID: SPDXRef-159
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-146
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/has-flag@3.0.0
+
+PackageName: has-symbols
+SPDXID: SPDXRef-160
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-147
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/has-symbols@1.0.0
+
+PackageName: has-unicode
+SPDXID: SPDXRef-161
+PackageVersion: 2.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-148
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/has-unicode@2.0.1
+
+PackageName: hosted-git-info
+SPDXID: SPDXRef-162
+PackageVersion: 2.8.9
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-149
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/hosted-git-info@2.8.9
+
+PackageName: hostname
+SPDXID: SPDXRef-163
+PackageVersion: 3.20
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/hostname@3.20?arch=amd64
+
+PackageName: http-cache-semantics
+SPDXID: SPDXRef-164
+PackageVersion: 3.8.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-150
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/http-cache-semantics@3.8.1
+
+PackageName: http-proxy-agent
+SPDXID: SPDXRef-165
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-151
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/http-proxy-agent@2.1.0
+
+PackageName: http-signature
+SPDXID: SPDXRef-166
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-152
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/http-signature@1.2.0
+
+PackageName: https-proxy-agent
+SPDXID: SPDXRef-167
+PackageVersion: 2.2.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-153
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/https-proxy-agent@2.2.4
+
+PackageName: humanize-ms
+SPDXID: SPDXRef-168
+PackageVersion: 1.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-154
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/humanize-ms@1.2.1
+
+PackageName: iconv-lite
+SPDXID: SPDXRef-169
+PackageVersion: 0.4.23
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-155
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/iconv-lite@0.4.23
+
+PackageName: iferr
+SPDXID: SPDXRef-170
+PackageVersion: 0.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-156
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/iferr@0.1.5
+
+PackageName: iferr
+SPDXID: SPDXRef-171
+PackageVersion: 0.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-157
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/iferr@0.1.5
+
+PackageName: iferr
+SPDXID: SPDXRef-172
+PackageVersion: 0.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-158
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/iferr@0.1.5
+
+PackageName: iferr
+SPDXID: SPDXRef-173
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-159
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/iferr@1.0.2
+
+PackageName: ignore-walk
+SPDXID: SPDXRef-174
+PackageVersion: 3.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-160
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ignore-walk@3.0.3
+
+PackageName: import-lazy
+SPDXID: SPDXRef-175
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-161
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/import-lazy@2.1.0
+
+PackageName: imurmurhash
+SPDXID: SPDXRef-176
+PackageVersion: 0.1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-162
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/imurmurhash@0.1.4
+
+PackageName: infer-owner
+SPDXID: SPDXRef-177
+PackageVersion: 1.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-163
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/infer-owner@1.0.4
+
+PackageName: inflight
+SPDXID: SPDXRef-178
+PackageVersion: 1.0.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-164
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/inflight@1.0.6
+
+PackageName: inherits
+SPDXID: SPDXRef-179
+PackageVersion: 2.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-165
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/inherits@2.0.4
+
+PackageName: ini
+SPDXID: SPDXRef-180
+PackageVersion: 1.3.8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-166
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ini@1.3.8
+
+PackageName: init-package-json
+SPDXID: SPDXRef-181
+PackageVersion: 1.10.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-167
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/init-package-json@1.10.3
+
+PackageName: init-system-helpers
+SPDXID: SPDXRef-182
+PackageVersion: 1.51
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-168
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/init-system-helpers@1.51?arch=all
+
+PackageName: ip
+SPDXID: SPDXRef-183
+PackageVersion: 1.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-169
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ip@1.1.5
+
+PackageName: ip-regex
+SPDXID: SPDXRef-184
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-170
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ip-regex@2.1.0
+
+PackageName: is-callable
+SPDXID: SPDXRef-185
+PackageVersion: 1.1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-171
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-callable@1.1.4
+
+PackageName: is-ci
+SPDXID: SPDXRef-186
+PackageVersion: 1.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-172
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-ci@1.2.1
+
+PackageName: is-cidr
+SPDXID: SPDXRef-187
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-173
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-cidr@3.0.0
+
+PackageName: is-date-object
+SPDXID: SPDXRef-188
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-174
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-date-object@1.0.1
+
+PackageName: is-fullwidth-code-point
+SPDXID: SPDXRef-189
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-175
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-fullwidth-code-point@1.0.0
+
+PackageName: is-fullwidth-code-point
+SPDXID: SPDXRef-190
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-176
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-fullwidth-code-point@2.0.0
+
+PackageName: is-fullwidth-code-point
+SPDXID: SPDXRef-191
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-177
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-fullwidth-code-point@2.0.0
+
+PackageName: is-fullwidth-code-point
+SPDXID: SPDXRef-192
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-178
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-fullwidth-code-point@2.0.0
+
+PackageName: is-fullwidth-code-point
+SPDXID: SPDXRef-193
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-179
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-fullwidth-code-point@2.0.0
+
+PackageName: is-installed-globally
+SPDXID: SPDXRef-194
+PackageVersion: 0.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-180
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-installed-globally@0.1.0
+
+PackageName: is-npm
+SPDXID: SPDXRef-195
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-181
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-npm@1.0.0
+
+PackageName: is-obj
+SPDXID: SPDXRef-196
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-182
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-obj@1.0.1
+
+PackageName: is-path-inside
+SPDXID: SPDXRef-197
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-183
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-path-inside@1.0.1
+
+PackageName: is-redirect
+SPDXID: SPDXRef-198
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-184
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-redirect@1.0.0
+
+PackageName: is-regex
+SPDXID: SPDXRef-199
+PackageVersion: 1.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-185
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-regex@1.0.4
+
+PackageName: is-retry-allowed
+SPDXID: SPDXRef-200
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-186
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-retry-allowed@1.2.0
+
+PackageName: is-stream
+SPDXID: SPDXRef-201
+PackageVersion: 1.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-187
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-stream@1.1.0
+
+PackageName: is-symbol
+SPDXID: SPDXRef-202
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-188
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-symbol@1.0.2
+
+PackageName: is-typedarray
+SPDXID: SPDXRef-203
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-189
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/is-typedarray@1.0.0
+
+PackageName: isarray
+SPDXID: SPDXRef-204
+PackageVersion: 0.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-190
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/isarray@0.0.1
+
+PackageName: isarray
+SPDXID: SPDXRef-205
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-191
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/isarray@1.0.0
+
+PackageName: isexe
+SPDXID: SPDXRef-206
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-192
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/isexe@2.0.0
+
+PackageName: isstream
+SPDXID: SPDXRef-207
+PackageVersion: 0.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-193
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/isstream@0.1.2
+
+PackageName: jsbn
+SPDXID: SPDXRef-208
+PackageVersion: 0.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-194
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/jsbn@0.1.1
+
+PackageName: json-parse-better-errors
+SPDXID: SPDXRef-209
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-195
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/json-parse-better-errors@1.0.2
+
+PackageName: json-schema
+SPDXID: SPDXRef-210
+PackageVersion: 0.2.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-196
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/json-schema@0.2.3
+
+PackageName: json-schema-traverse
+SPDXID: SPDXRef-211
+PackageVersion: 0.4.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-197
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/json-schema-traverse@0.4.1
+
+PackageName: json-stringify-safe
+SPDXID: SPDXRef-212
+PackageVersion: 5.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-198
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/json-stringify-safe@5.0.1
+
+PackageName: jsonparse
+SPDXID: SPDXRef-213
+PackageVersion: 1.3.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-199
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/jsonparse@1.3.1
+
+PackageName: jsprim
+SPDXID: SPDXRef-214
+PackageVersion: 1.4.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-200
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/jsprim@1.4.1
+
+PackageName: latest-version
+SPDXID: SPDXRef-215
+PackageVersion: 3.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-201
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/latest-version@3.1.0
+
+PackageName: lazy-property
+SPDXID: SPDXRef-216
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-202
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lazy-property@1.0.0
+
+PackageName: libacl1
+SPDXID: SPDXRef-217
+PackageVersion: 2.2.52-3build1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libacl1@2.2.52-3build1?arch=amd64
+
+PackageName: libapt-pkg5.0
+SPDXID: SPDXRef-218
+PackageVersion: 1.6.13
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-203
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libapt-pkg5.0@1.6.13?arch=amd64
+
+PackageName: libattr1
+SPDXID: SPDXRef-219
+PackageVersion: 1:2.4.47-2build1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libattr1@1:2.4.47-2build1?arch=amd64
+
+PackageName: libaudit-common
+SPDXID: SPDXRef-220
+PackageVersion: 1:2.8.2-1ubuntu1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-204
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libaudit-common@1:2.8.2-1ubuntu1.1?arch=all
+
+PackageName: libaudit1
+SPDXID: SPDXRef-221
+PackageVersion: 1:2.8.2-1ubuntu1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-205
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libaudit1@1:2.8.2-1ubuntu1.1?arch=amd64
+
+PackageName: libblkid1
+SPDXID: SPDXRef-222
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-206
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libblkid1@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: libbz2-1.0
+SPDXID: SPDXRef-223
+PackageVersion: 1.0.6-8.1ubuntu0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libbz2-1.0@1.0.6-8.1ubuntu0.2?arch=amd64
+
+PackageName: libc-bin
+SPDXID: SPDXRef-224
+PackageVersion: 2.27-3ubuntu1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libc-bin@2.27-3ubuntu1.4?arch=amd64
+
+PackageName: libc6
+SPDXID: SPDXRef-225
+PackageVersion: 2.27-3ubuntu1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libc6@2.27-3ubuntu1.4?arch=amd64
+
+PackageName: libcap-ng0
+SPDXID: SPDXRef-226
+PackageVersion: 0.7.7-3.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libcap-ng0@0.7.7-3.1?arch=amd64
+
+PackageName: libcipm
+SPDXID: SPDXRef-227
+PackageVersion: 4.0.8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-207
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libcipm@4.0.8
+
+PackageName: libcom-err2
+SPDXID: SPDXRef-228
+PackageVersion: 1.44.1-1ubuntu1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libcom-err2@1.44.1-1ubuntu1.3?arch=amd64
+
+PackageName: libdb5.3
+SPDXID: SPDXRef-229
+PackageVersion: 5.3.28-13.1ubuntu1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libdb5.3@5.3.28-13.1ubuntu1.1?arch=amd64
+
+PackageName: libdebconfclient0
+SPDXID: SPDXRef-230
+PackageVersion: 0.213ubuntu1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libdebconfclient0@0.213ubuntu1?arch=amd64
+
+PackageName: libext2fs2
+SPDXID: SPDXRef-231
+PackageVersion: 1.44.1-1ubuntu1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libext2fs2@1.44.1-1ubuntu1.3?arch=amd64
+
+PackageName: libfdisk1
+SPDXID: SPDXRef-232
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-208
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libfdisk1@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: libffi6
+SPDXID: SPDXRef-233
+PackageVersion: 3.2.1-8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libffi6@3.2.1-8?arch=amd64
+
+PackageName: libgcc1
+SPDXID: SPDXRef-234
+PackageVersion: 1:8.4.0-1ubuntu1~18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libgcc1@1:8.4.0-1ubuntu1~18.04?arch=amd64
+
+PackageName: libgcrypt20
+SPDXID: SPDXRef-235
+PackageVersion: 1.8.1-4ubuntu1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libgcrypt20@1.8.1-4ubuntu1.2?arch=amd64
+
+PackageName: libgmp10
+SPDXID: SPDXRef-236
+PackageVersion: 2:6.1.2+dfsg-2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libgmp10@2:6.1.2+dfsg-2?arch=amd64
+
+PackageName: libgnutls30
+SPDXID: SPDXRef-237
+PackageVersion: 3.5.18-1ubuntu1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-209
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libgnutls30@3.5.18-1ubuntu1.4?arch=amd64
+
+PackageName: libgpg-error0
+SPDXID: SPDXRef-238
+PackageVersion: 1.27-6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-210
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libgpg-error0@1.27-6?arch=amd64
+
+PackageName: libhogweed4
+SPDXID: SPDXRef-239
+PackageVersion: 3.4-1ubuntu0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-211
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libhogweed4@3.4-1ubuntu0.1?arch=amd64
+
+PackageName: libidn2-0
+SPDXID: SPDXRef-240
+PackageVersion: 2.0.4-1.1ubuntu0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-212
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libidn2-0@2.0.4-1.1ubuntu0.2?arch=amd64
+
+PackageName: liblz4-1
+SPDXID: SPDXRef-241
+PackageVersion: 0.0~r131-2ubuntu3.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-213
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/liblz4-1@0.0~r131-2ubuntu3.1?arch=amd64
+
+PackageName: liblzma5
+SPDXID: SPDXRef-242
+PackageVersion: 5.2.2-1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-214
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/liblzma5@5.2.2-1.3?arch=amd64
+
+PackageName: libmount1
+SPDXID: SPDXRef-243
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-215
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libmount1@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: libncurses5
+SPDXID: SPDXRef-244
+PackageVersion: 6.1-1ubuntu1.18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libncurses5@6.1-1ubuntu1.18.04?arch=amd64
+
+PackageName: libncursesw5
+SPDXID: SPDXRef-245
+PackageVersion: 6.1-1ubuntu1.18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libncursesw5@6.1-1ubuntu1.18.04?arch=amd64
+
+PackageName: libnettle6
+SPDXID: SPDXRef-246
+PackageVersion: 3.4-1ubuntu0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-216
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libnettle6@3.4-1ubuntu0.1?arch=amd64
+
+PackageName: libnpm
+SPDXID: SPDXRef-247
+PackageVersion: 3.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-217
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpm@3.0.1
+
+PackageName: libnpmaccess
+SPDXID: SPDXRef-248
+PackageVersion: 3.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-218
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpmaccess@3.0.2
+
+PackageName: libnpmconfig
+SPDXID: SPDXRef-249
+PackageVersion: 1.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-219
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpmconfig@1.2.1
+
+PackageName: libnpmhook
+SPDXID: SPDXRef-250
+PackageVersion: 5.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-220
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpmhook@5.0.3
+
+PackageName: libnpmorg
+SPDXID: SPDXRef-251
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-221
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpmorg@1.0.1
+
+PackageName: libnpmpublish
+SPDXID: SPDXRef-252
+PackageVersion: 1.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-222
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpmpublish@1.1.2
+
+PackageName: libnpmsearch
+SPDXID: SPDXRef-253
+PackageVersion: 2.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-223
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpmsearch@2.0.2
+
+PackageName: libnpmteam
+SPDXID: SPDXRef-254
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-224
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpmteam@1.0.2
+
+PackageName: libnpx
+SPDXID: SPDXRef-255
+PackageVersion: 10.2.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-225
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/libnpx@10.2.4
+
+PackageName: libp11-kit0
+SPDXID: SPDXRef-256
+PackageVersion: 0.23.9-2ubuntu0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-226
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libp11-kit0@0.23.9-2ubuntu0.1?arch=amd64
+
+PackageName: libpam-modules
+SPDXID: SPDXRef-257
+PackageVersion: 1.1.8-3.6ubuntu2.18.04.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libpam-modules@1.1.8-3.6ubuntu2.18.04.3?arch=amd64
+
+PackageName: libpam-modules-bin
+SPDXID: SPDXRef-258
+PackageVersion: 1.1.8-3.6ubuntu2.18.04.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libpam-modules-bin@1.1.8-3.6ubuntu2.18.04.3?arch=amd64
+
+PackageName: libpam-runtime
+SPDXID: SPDXRef-259
+PackageVersion: 1.1.8-3.6ubuntu2.18.04.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libpam-runtime@1.1.8-3.6ubuntu2.18.04.3?arch=all
+
+PackageName: libpam0g
+SPDXID: SPDXRef-260
+PackageVersion: 1.1.8-3.6ubuntu2.18.04.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libpam0g@1.1.8-3.6ubuntu2.18.04.3?arch=amd64
+
+PackageName: libpcre3
+SPDXID: SPDXRef-261
+PackageVersion: 2:8.39-9
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libpcre3@2:8.39-9?arch=amd64
+
+PackageName: libprocps6
+SPDXID: SPDXRef-262
+PackageVersion: 2:3.3.12-3ubuntu1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-227
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libprocps6@2:3.3.12-3ubuntu1.2?arch=amd64
+
+PackageName: libseccomp2
+SPDXID: SPDXRef-263
+PackageVersion: 2.5.1-1ubuntu1~18.04.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-228
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libseccomp2@2.5.1-1ubuntu1~18.04.1?arch=amd64
+
+PackageName: libselinux1
+SPDXID: SPDXRef-264
+PackageVersion: 2.7-2build2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libselinux1@2.7-2build2?arch=amd64
+
+PackageName: libsemanage-common
+SPDXID: SPDXRef-265
+PackageVersion: 2.7-2build2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libsemanage-common@2.7-2build2?arch=all
+
+PackageName: libsemanage1
+SPDXID: SPDXRef-266
+PackageVersion: 2.7-2build2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libsemanage1@2.7-2build2?arch=amd64
+
+PackageName: libsepol1
+SPDXID: SPDXRef-267
+PackageVersion: 2.7-1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libsepol1@2.7-1?arch=amd64
+
+PackageName: libsmartcols1
+SPDXID: SPDXRef-268
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-229
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libsmartcols1@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: libss2
+SPDXID: SPDXRef-269
+PackageVersion: 1.44.1-1ubuntu1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libss2@1.44.1-1ubuntu1.3?arch=amd64
+
+PackageName: libssl1.1
+SPDXID: SPDXRef-270
+PackageVersion: 1.1.1-1ubuntu2.1~18.04.9
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libssl1.1@1.1.1-1ubuntu2.1~18.04.9?arch=amd64
+
+PackageName: libstdc++6
+SPDXID: SPDXRef-271
+PackageVersion: 8.4.0-1ubuntu1~18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libstdc++6@8.4.0-1ubuntu1~18.04?arch=amd64
+
+PackageName: libsystemd0
+SPDXID: SPDXRef-272
+PackageVersion: 237-3ubuntu10.47
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-230
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libsystemd0@237-3ubuntu10.47?arch=amd64
+
+PackageName: libtasn1-6
+SPDXID: SPDXRef-273
+PackageVersion: 4.13-2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libtasn1-6@4.13-2?arch=amd64
+
+PackageName: libtinfo5
+SPDXID: SPDXRef-274
+PackageVersion: 6.1-1ubuntu1.18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libtinfo5@6.1-1ubuntu1.18.04?arch=amd64
+
+PackageName: libudev1
+SPDXID: SPDXRef-275
+PackageVersion: 237-3ubuntu10.47
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-231
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libudev1@237-3ubuntu10.47?arch=amd64
+
+PackageName: libunistring2
+SPDXID: SPDXRef-276
+PackageVersion: 0.9.9-0ubuntu2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-232
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libunistring2@0.9.9-0ubuntu2?arch=amd64
+
+PackageName: libuuid1
+SPDXID: SPDXRef-277
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-233
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libuuid1@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: libyaml-0-2
+SPDXID: SPDXRef-278
+PackageVersion: 0.1.7-2ubuntu3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-234
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libyaml-0-2@0.1.7-2ubuntu3?arch=amd64
+
+PackageName: libzstd1
+SPDXID: SPDXRef-279
+PackageVersion: 1.3.3+dfsg-2ubuntu1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-235
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/libzstd1@1.3.3+dfsg-2ubuntu1.2?arch=amd64
+
+PackageName: locales
+SPDXID: SPDXRef-280
+PackageVersion: 2.27-3ubuntu1.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/locales@2.27-3ubuntu1.4?arch=all
+
+PackageName: locate-path
+SPDXID: SPDXRef-281
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-236
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/locate-path@3.0.0
+
+PackageName: locate-path
+SPDXID: SPDXRef-282
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-237
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/locate-path@3.0.0
+
+PackageName: lock-verify
+SPDXID: SPDXRef-283
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-238
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lock-verify@2.1.0
+
+PackageName: lockfile
+SPDXID: SPDXRef-284
+PackageVersion: 1.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-239
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lockfile@1.0.4
+
+PackageName: lodash._baseindexof
+SPDXID: SPDXRef-285
+PackageVersion: 3.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-240
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._baseindexof@3.1.0
+
+PackageName: lodash._baseuniq
+SPDXID: SPDXRef-286
+PackageVersion: 4.6.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-241
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._baseuniq@4.6.0
+
+PackageName: lodash._bindcallback
+SPDXID: SPDXRef-287
+PackageVersion: 3.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-242
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._bindcallback@3.0.1
+
+PackageName: lodash._cacheindexof
+SPDXID: SPDXRef-288
+PackageVersion: 3.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-243
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._cacheindexof@3.0.2
+
+PackageName: lodash._createcache
+SPDXID: SPDXRef-289
+PackageVersion: 3.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-244
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._createcache@3.1.2
+
+PackageName: lodash._createset
+SPDXID: SPDXRef-290
+PackageVersion: 4.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-245
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._createset@4.0.3
+
+PackageName: lodash._getnative
+SPDXID: SPDXRef-291
+PackageVersion: 3.9.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-246
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._getnative@3.9.1
+
+PackageName: lodash._root
+SPDXID: SPDXRef-292
+PackageVersion: 3.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-247
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash._root@3.0.1
+
+PackageName: lodash.clonedeep
+SPDXID: SPDXRef-293
+PackageVersion: 4.5.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-248
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash.clonedeep@4.5.0
+
+PackageName: lodash.restparam
+SPDXID: SPDXRef-294
+PackageVersion: 3.6.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-249
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash.restparam@3.6.1
+
+PackageName: lodash.union
+SPDXID: SPDXRef-295
+PackageVersion: 4.6.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-250
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash.union@4.6.0
+
+PackageName: lodash.uniq
+SPDXID: SPDXRef-296
+PackageVersion: 4.5.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-251
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash.uniq@4.5.0
+
+PackageName: lodash.without
+SPDXID: SPDXRef-297
+PackageVersion: 4.4.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-252
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lodash.without@4.4.0
+
+PackageName: login
+SPDXID: SPDXRef-298
+PackageVersion: 1:4.5-1ubuntu2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/login@1:4.5-1ubuntu2?arch=amd64
+
+PackageName: lowercase-keys
+SPDXID: SPDXRef-299
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-253
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lowercase-keys@1.0.1
+
+PackageName: lru-cache
+SPDXID: SPDXRef-300
+PackageVersion: 4.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-254
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lru-cache@4.1.5
+
+PackageName: lru-cache
+SPDXID: SPDXRef-301
+PackageVersion: 5.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-255
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/lru-cache@5.1.1
+
+PackageName: lsb-base
+SPDXID: SPDXRef-302
+PackageVersion: 9.20170808ubuntu1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-256
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/lsb-base@9.20170808ubuntu1?arch=all
+
+PackageName: make-dir
+SPDXID: SPDXRef-303
+PackageVersion: 1.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-257
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/make-dir@1.3.0
+
+PackageName: make-fetch-happen
+SPDXID: SPDXRef-304
+PackageVersion: 5.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-258
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/make-fetch-happen@5.0.2
+
+PackageName: mawk
+SPDXID: SPDXRef-305
+PackageVersion: 1.3.3-17ubuntu3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/mawk@1.3.3-17ubuntu3?arch=amd64
+
+PackageName: meant
+SPDXID: SPDXRef-306
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-259
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/meant@1.0.2
+
+PackageName: mime-db
+SPDXID: SPDXRef-307
+PackageVersion: 1.35.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-260
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/mime-db@1.35.0
+
+PackageName: mime-types
+SPDXID: SPDXRef-308
+PackageVersion: 2.1.19
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-261
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/mime-types@2.1.19
+
+PackageName: minimatch
+SPDXID: SPDXRef-309
+PackageVersion: 3.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-262
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minimatch@3.0.4
+
+PackageName: minimist
+SPDXID: SPDXRef-310
+PackageVersion: 1.2.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-263
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minimist@1.2.5
+
+PackageName: minimist
+SPDXID: SPDXRef-311
+PackageVersion: 1.2.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-264
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minimist@1.2.5
+
+PackageName: minipass
+SPDXID: SPDXRef-312
+PackageVersion: 2.9.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-265
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minipass@2.9.0
+
+PackageName: minipass
+SPDXID: SPDXRef-313
+PackageVersion: 2.9.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-266
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minipass@2.9.0
+
+PackageName: minipass
+SPDXID: SPDXRef-314
+PackageVersion: 2.9.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-267
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minipass@2.9.0
+
+PackageName: minipass
+SPDXID: SPDXRef-315
+PackageVersion: 2.9.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-268
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minipass@2.9.0
+
+PackageName: minizlib
+SPDXID: SPDXRef-316
+PackageVersion: 1.3.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-269
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/minizlib@1.3.3
+
+PackageName: mississippi
+SPDXID: SPDXRef-317
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-270
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/mississippi@3.0.0
+
+PackageName: mkdirp
+SPDXID: SPDXRef-318
+PackageVersion: 0.5.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-271
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/mkdirp@0.5.5
+
+PackageName: mount
+SPDXID: SPDXRef-319
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-272
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/mount@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: move-concurrently
+SPDXID: SPDXRef-320
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-273
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/move-concurrently@1.0.1
+
+PackageName: ms
+SPDXID: SPDXRef-321
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-274
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ms@2.0.0
+
+PackageName: ms
+SPDXID: SPDXRef-322
+PackageVersion: 2.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-275
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ms@2.1.1
+
+PackageName: mute-stream
+SPDXID: SPDXRef-323
+PackageVersion: 0.0.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-276
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/mute-stream@0.0.7
+
+PackageName: ncurses-base
+SPDXID: SPDXRef-324
+PackageVersion: 6.1-1ubuntu1.18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/ncurses-base@6.1-1ubuntu1.18.04?arch=all
+
+PackageName: ncurses-bin
+SPDXID: SPDXRef-325
+PackageVersion: 6.1-1ubuntu1.18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/ncurses-bin@6.1-1ubuntu1.18.04?arch=amd64
+
+PackageName: netbase
+SPDXID: SPDXRef-326
+PackageVersion: 5.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/netbase@5.4?arch=all
+
+PackageName: node-fetch-npm
+SPDXID: SPDXRef-327
+PackageVersion: 2.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-277
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/node-fetch-npm@2.0.2
+
+PackageName: node-gyp
+SPDXID: SPDXRef-328
+PackageVersion: 5.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-278
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/node-gyp@5.1.0
+
+PackageName: nopt
+SPDXID: SPDXRef-329
+PackageVersion: 4.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-279
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/nopt@4.0.3
+
+PackageName: normalize-package-data
+SPDXID: SPDXRef-330
+PackageVersion: 2.5.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-280
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/normalize-package-data@2.5.0
+
+PackageName: npm
+SPDXID: SPDXRef-331
+PackageVersion: 6.14.13
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-281
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm@6.14.13
+
+PackageName: npm-audit-report
+SPDXID: SPDXRef-332
+PackageVersion: 1.3.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-282
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-audit-report@1.3.3
+
+PackageName: npm-bundled
+SPDXID: SPDXRef-333
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-283
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-bundled@1.1.1
+
+PackageName: npm-cache-filename
+SPDXID: SPDXRef-334
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-284
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-cache-filename@1.0.2
+
+PackageName: npm-cli-docs
+SPDXID: SPDXRef-335
+PackageVersion: 0.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-285
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-cli-docs@0.1.0
+
+PackageName: npm-init
+SPDXID: SPDXRef-336
+PackageVersion: 0.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-286
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-init@0.0.0
+
+PackageName: npm-install-checks
+SPDXID: SPDXRef-337
+PackageVersion: 3.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-287
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-install-checks@3.0.2
+
+PackageName: npm-lifecycle
+SPDXID: SPDXRef-338
+PackageVersion: 3.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-288
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-lifecycle@3.1.5
+
+PackageName: npm-logical-tree
+SPDXID: SPDXRef-339
+PackageVersion: 1.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-289
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-logical-tree@1.2.1
+
+PackageName: npm-normalize-package-bin
+SPDXID: SPDXRef-340
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-290
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-normalize-package-bin@1.0.1
+
+PackageName: npm-package-arg
+SPDXID: SPDXRef-341
+PackageVersion: 6.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-291
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-package-arg@6.1.1
+
+PackageName: npm-packlist
+SPDXID: SPDXRef-342
+PackageVersion: 1.4.8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-292
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-packlist@1.4.8
+
+PackageName: npm-pick-manifest
+SPDXID: SPDXRef-343
+PackageVersion: 3.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-293
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-pick-manifest@3.0.2
+
+PackageName: npm-profile
+SPDXID: SPDXRef-344
+PackageVersion: 4.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-294
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-profile@4.0.4
+
+PackageName: npm-registry-fetch
+SPDXID: SPDXRef-345
+PackageVersion: 4.0.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-295
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-registry-fetch@4.0.7
+
+PackageName: npm-run-path
+SPDXID: SPDXRef-346
+PackageVersion: 2.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-296
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-run-path@2.0.2
+
+PackageName: npm-user-validate
+SPDXID: SPDXRef-347
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-297
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npm-user-validate@1.0.1
+
+PackageName: npmlog
+SPDXID: SPDXRef-348
+PackageVersion: 4.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-298
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/npmlog@4.1.2
+
+PackageName: number-is-nan
+SPDXID: SPDXRef-349
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-299
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/number-is-nan@1.0.1
+
+PackageName: oauth-sign
+SPDXID: SPDXRef-350
+PackageVersion: 0.9.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-300
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/oauth-sign@0.9.0
+
+PackageName: object-assign
+SPDXID: SPDXRef-351
+PackageVersion: 4.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-301
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/object-assign@4.1.1
+
+PackageName: object-keys
+SPDXID: SPDXRef-352
+PackageVersion: 1.0.12
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-302
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/object-keys@1.0.12
+
+PackageName: object.getownpropertydescriptors
+SPDXID: SPDXRef-353
+PackageVersion: 2.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-303
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/object.getownpropertydescriptors@2.0.3
+
+PackageName: once
+SPDXID: SPDXRef-354
+PackageVersion: 1.4.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-304
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/once@1.4.0
+
+PackageName: opener
+SPDXID: SPDXRef-355
+PackageVersion: 1.5.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-305
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/opener@1.5.2
+
+PackageName: openssl
+SPDXID: SPDXRef-356
+PackageVersion: 1.1.1-1ubuntu2.1~18.04.9
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/openssl@1.1.1-1ubuntu2.1~18.04.9?arch=amd64
+
+PackageName: os-homedir
+SPDXID: SPDXRef-357
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-306
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/os-homedir@1.0.2
+
+PackageName: os-tmpdir
+SPDXID: SPDXRef-358
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-307
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/os-tmpdir@1.0.2
+
+PackageName: osenv
+SPDXID: SPDXRef-359
+PackageVersion: 0.1.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-308
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/osenv@0.1.5
+
+PackageName: p-finally
+SPDXID: SPDXRef-360
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-309
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/p-finally@1.0.0
+
+PackageName: p-limit
+SPDXID: SPDXRef-361
+PackageVersion: 2.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-310
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/p-limit@2.2.0
+
+PackageName: p-limit
+SPDXID: SPDXRef-362
+PackageVersion: 2.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-311
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/p-limit@2.3.0
+
+PackageName: p-locate
+SPDXID: SPDXRef-363
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-312
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/p-locate@3.0.0
+
+PackageName: p-locate
+SPDXID: SPDXRef-364
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-313
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/p-locate@3.0.0
+
+PackageName: p-try
+SPDXID: SPDXRef-365
+PackageVersion: 2.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-314
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/p-try@2.2.0
+
+PackageName: p-try
+SPDXID: SPDXRef-366
+PackageVersion: 2.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-315
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/p-try@2.2.0
+
+PackageName: package-json
+SPDXID: SPDXRef-367
+PackageVersion: 4.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-316
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/package-json@4.0.1
+
+PackageName: pacote
+SPDXID: SPDXRef-368
+PackageVersion: 9.5.12
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-317
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/pacote@9.5.12
+
+PackageName: parallel-transform
+SPDXID: SPDXRef-369
+PackageVersion: 1.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-318
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/parallel-transform@1.1.0
+
+PackageName: passwd
+SPDXID: SPDXRef-370
+PackageVersion: 1:4.5-1ubuntu2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/passwd@1:4.5-1ubuntu2?arch=amd64
+
+PackageName: path-exists
+SPDXID: SPDXRef-371
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-319
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/path-exists@3.0.0
+
+PackageName: path-is-absolute
+SPDXID: SPDXRef-372
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-320
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/path-is-absolute@1.0.1
+
+PackageName: path-is-inside
+SPDXID: SPDXRef-373
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-321
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/path-is-inside@1.0.2
+
+PackageName: path-key
+SPDXID: SPDXRef-374
+PackageVersion: 2.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-322
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/path-key@2.0.1
+
+PackageName: path-parse
+SPDXID: SPDXRef-375
+PackageVersion: 1.0.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-323
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/path-parse@1.0.6
+
+PackageName: performance-now
+SPDXID: SPDXRef-376
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-324
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/performance-now@2.1.0
+
+PackageName: perl-base
+SPDXID: SPDXRef-377
+PackageVersion: 5.26.1-6ubuntu0.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-325
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/perl-base@5.26.1-6ubuntu0.5?arch=amd64
+
+PackageName: pify
+SPDXID: SPDXRef-378
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-326
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/pify@3.0.0
+
+PackageName: prepend-http
+SPDXID: SPDXRef-379
+PackageVersion: 1.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-327
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/prepend-http@1.0.4
+
+PackageName: process-nextick-args
+SPDXID: SPDXRef-380
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-328
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/process-nextick-args@2.0.0
+
+PackageName: procps
+SPDXID: SPDXRef-381
+PackageVersion: 2:3.3.12-3ubuntu1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-329
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/procps@2:3.3.12-3ubuntu1.2?arch=amd64
+
+PackageName: promise-inflight
+SPDXID: SPDXRef-382
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-330
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/promise-inflight@1.0.1
+
+PackageName: promise-retry
+SPDXID: SPDXRef-383
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-331
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/promise-retry@1.1.1
+
+PackageName: promzard
+SPDXID: SPDXRef-384
+PackageVersion: 0.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-332
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/promzard@0.3.0
+
+PackageName: proto-list
+SPDXID: SPDXRef-385
+PackageVersion: 1.2.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-333
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/proto-list@1.2.4
+
+PackageName: protoduck
+SPDXID: SPDXRef-386
+PackageVersion: 5.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-334
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/protoduck@5.0.1
+
+PackageName: prr
+SPDXID: SPDXRef-387
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-335
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/prr@1.0.1
+
+PackageName: pseudomap
+SPDXID: SPDXRef-388
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-336
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/pseudomap@1.0.2
+
+PackageName: psl
+SPDXID: SPDXRef-389
+PackageVersion: 1.1.29
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-337
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/psl@1.1.29
+
+PackageName: pump
+SPDXID: SPDXRef-390
+PackageVersion: 2.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-338
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/pump@2.0.1
+
+PackageName: pump
+SPDXID: SPDXRef-391
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-339
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/pump@3.0.0
+
+PackageName: pumpify
+SPDXID: SPDXRef-392
+PackageVersion: 1.5.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-340
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/pumpify@1.5.1
+
+PackageName: punycode
+SPDXID: SPDXRef-393
+PackageVersion: 1.4.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-341
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/punycode@1.4.1
+
+PackageName: punycode
+SPDXID: SPDXRef-394
+PackageVersion: 2.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-342
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/punycode@2.1.1
+
+PackageName: qrcode-terminal
+SPDXID: SPDXRef-395
+PackageVersion: 0.12.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-343
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/qrcode-terminal@0.12.0
+
+PackageName: qs
+SPDXID: SPDXRef-396
+PackageVersion: 6.5.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-344
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/qs@6.5.2
+
+PackageName: query-string
+SPDXID: SPDXRef-397
+PackageVersion: 6.8.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-345
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/query-string@6.8.2
+
+PackageName: qw
+SPDXID: SPDXRef-398
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-346
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/qw@1.0.1
+
+PackageName: rc
+SPDXID: SPDXRef-399
+PackageVersion: 1.2.8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-347
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/rc@1.2.8
+
+PackageName: read
+SPDXID: SPDXRef-400
+PackageVersion: 1.0.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-348
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/read@1.0.7
+
+PackageName: read-cmd-shim
+SPDXID: SPDXRef-401
+PackageVersion: 1.0.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-349
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/read-cmd-shim@1.0.5
+
+PackageName: read-installed
+SPDXID: SPDXRef-402
+PackageVersion: 4.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-350
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/read-installed@4.0.3
+
+PackageName: read-package-json
+SPDXID: SPDXRef-403
+PackageVersion: 2.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-351
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/read-package-json@2.1.1
+
+PackageName: read-package-tree
+SPDXID: SPDXRef-404
+PackageVersion: 5.3.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-352
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/read-package-tree@5.3.1
+
+PackageName: readable-stream
+SPDXID: SPDXRef-405
+PackageVersion: 1.1.14
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-353
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@1.1.14
+
+PackageName: readable-stream
+SPDXID: SPDXRef-406
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-354
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-407
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-355
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-408
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-356
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-409
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-357
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-410
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-358
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-411
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-359
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-412
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-360
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-413
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-361
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-414
+PackageVersion: 2.3.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-362
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@2.3.6
+
+PackageName: readable-stream
+SPDXID: SPDXRef-415
+PackageVersion: 3.6.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-363
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readable-stream@3.6.0
+
+PackageName: readdir-scoped-modules
+SPDXID: SPDXRef-416
+PackageVersion: 1.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-364
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/readdir-scoped-modules@1.1.0
+
+PackageName: registry-auth-token
+SPDXID: SPDXRef-417
+PackageVersion: 3.4.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-365
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/registry-auth-token@3.4.0
+
+PackageName: registry-url
+SPDXID: SPDXRef-418
+PackageVersion: 3.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-366
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/registry-url@3.1.0
+
+PackageName: request
+SPDXID: SPDXRef-419
+PackageVersion: 2.88.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-367
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/request@2.88.0
+
+PackageName: require-directory
+SPDXID: SPDXRef-420
+PackageVersion: 2.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-368
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/require-directory@2.1.1
+
+PackageName: require-main-filename
+SPDXID: SPDXRef-421
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-369
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/require-main-filename@2.0.0
+
+PackageName: resolve
+SPDXID: SPDXRef-422
+PackageVersion: 1.10.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-370
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/resolve@1.10.0
+
+PackageName: resolve-from
+SPDXID: SPDXRef-423
+PackageVersion: 4.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-371
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/resolve-from@4.0.0
+
+PackageName: retry
+SPDXID: SPDXRef-424
+PackageVersion: 0.10.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-372
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/retry@0.10.1
+
+PackageName: retry
+SPDXID: SPDXRef-425
+PackageVersion: 0.12.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-373
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/retry@0.12.0
+
+PackageName: rimraf
+SPDXID: SPDXRef-426
+PackageVersion: 2.7.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-374
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/rimraf@2.7.1
+
+PackageName: run-queue
+SPDXID: SPDXRef-427
+PackageVersion: 1.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-375
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/run-queue@1.0.3
+
+PackageName: safe-buffer
+SPDXID: SPDXRef-428
+PackageVersion: 5.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-376
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/safe-buffer@5.1.2
+
+PackageName: safe-buffer
+SPDXID: SPDXRef-429
+PackageVersion: 5.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-377
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/safe-buffer@5.2.0
+
+PackageName: safe-buffer
+SPDXID: SPDXRef-430
+PackageVersion: 5.2.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-378
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/safe-buffer@5.2.1
+
+PackageName: safer-buffer
+SPDXID: SPDXRef-431
+PackageVersion: 2.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-379
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/safer-buffer@2.1.2
+
+PackageName: sed
+SPDXID: SPDXRef-432
+PackageVersion: 4.4-2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/sed@4.4-2?arch=amd64
+
+PackageName: semver
+SPDXID: SPDXRef-433
+PackageVersion: 5.7.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-380
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/semver@5.7.1
+
+PackageName: semver-diff
+SPDXID: SPDXRef-434
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-381
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/semver-diff@2.1.0
+
+PackageName: sensible-utils
+SPDXID: SPDXRef-435
+PackageVersion: 0.0.12
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-382
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/sensible-utils@0.0.12?arch=all
+
+PackageName: set-blocking
+SPDXID: SPDXRef-436
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-383
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/set-blocking@2.0.0
+
+PackageName: sha
+SPDXID: SPDXRef-437
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-384
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/sha@3.0.0
+
+PackageName: shebang-command
+SPDXID: SPDXRef-438
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-385
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/shebang-command@1.2.0
+
+PackageName: shebang-regex
+SPDXID: SPDXRef-439
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-386
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/shebang-regex@1.0.0
+
+PackageName: signal-exit
+SPDXID: SPDXRef-440
+PackageVersion: 3.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-387
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/signal-exit@3.0.2
+
+PackageName: slide
+SPDXID: SPDXRef-441
+PackageVersion: 1.1.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-388
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/slide@1.1.6
+
+PackageName: smart-buffer
+SPDXID: SPDXRef-442
+PackageVersion: 4.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-389
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/smart-buffer@4.1.0
+
+PackageName: socks
+SPDXID: SPDXRef-443
+PackageVersion: 2.3.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-390
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/socks@2.3.3
+
+PackageName: socks-proxy-agent
+SPDXID: SPDXRef-444
+PackageVersion: 4.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-391
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/socks-proxy-agent@4.0.2
+
+PackageName: sorted-object
+SPDXID: SPDXRef-445
+PackageVersion: 2.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-392
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/sorted-object@2.0.1
+
+PackageName: sorted-union-stream
+SPDXID: SPDXRef-446
+PackageVersion: 2.1.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-393
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/sorted-union-stream@2.1.3
+
+PackageName: spdx-correct
+SPDXID: SPDXRef-447
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-394
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/spdx-correct@3.0.0
+
+PackageName: spdx-exceptions
+SPDXID: SPDXRef-448
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-395
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/spdx-exceptions@2.1.0
+
+PackageName: spdx-expression-parse
+SPDXID: SPDXRef-449
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-396
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/spdx-expression-parse@3.0.0
+
+PackageName: spdx-license-ids
+SPDXID: SPDXRef-450
+PackageVersion: 3.0.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-397
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/spdx-license-ids@3.0.5
+
+PackageName: split-on-first
+SPDXID: SPDXRef-451
+PackageVersion: 1.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-398
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/split-on-first@1.1.0
+
+PackageName: sshpk
+SPDXID: SPDXRef-452
+PackageVersion: 1.14.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-399
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/sshpk@1.14.2
+
+PackageName: ssri
+SPDXID: SPDXRef-453
+PackageVersion: 6.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-400
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/ssri@6.0.2
+
+PackageName: stream-each
+SPDXID: SPDXRef-454
+PackageVersion: 1.2.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-401
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/stream-each@1.2.2
+
+PackageName: stream-iterate
+SPDXID: SPDXRef-455
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-402
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/stream-iterate@1.2.0
+
+PackageName: stream-shift
+SPDXID: SPDXRef-456
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-403
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/stream-shift@1.0.0
+
+PackageName: strict-uri-encode
+SPDXID: SPDXRef-457
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-404
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strict-uri-encode@2.0.0
+
+PackageName: string-width
+SPDXID: SPDXRef-458
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-405
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string-width@1.0.2
+
+PackageName: string-width
+SPDXID: SPDXRef-459
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-406
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string-width@1.0.2
+
+PackageName: string-width
+SPDXID: SPDXRef-460
+PackageVersion: 2.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-407
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string-width@2.1.1
+
+PackageName: string-width
+SPDXID: SPDXRef-461
+PackageVersion: 3.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-408
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string-width@3.1.0
+
+PackageName: string-width
+SPDXID: SPDXRef-462
+PackageVersion: 3.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-409
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string-width@3.1.0
+
+PackageName: string-width
+SPDXID: SPDXRef-463
+PackageVersion: 3.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-410
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string-width@3.1.0
+
+PackageName: string_decoder
+SPDXID: SPDXRef-464
+PackageVersion: 0.10.31
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-411
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@0.10.31
+
+PackageName: string_decoder
+SPDXID: SPDXRef-465
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-412
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-466
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-413
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-467
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-414
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-468
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-415
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-469
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-416
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-470
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-417
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-471
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-418
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-472
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-419
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-473
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-420
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.1.1
+
+PackageName: string_decoder
+SPDXID: SPDXRef-474
+PackageVersion: 1.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-421
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/string_decoder@1.3.0
+
+PackageName: stringify-package
+SPDXID: SPDXRef-475
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-422
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/stringify-package@1.0.1
+
+PackageName: strip-ansi
+SPDXID: SPDXRef-476
+PackageVersion: 3.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-423
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strip-ansi@3.0.1
+
+PackageName: strip-ansi
+SPDXID: SPDXRef-477
+PackageVersion: 4.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-424
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strip-ansi@4.0.0
+
+PackageName: strip-ansi
+SPDXID: SPDXRef-478
+PackageVersion: 5.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-425
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strip-ansi@5.2.0
+
+PackageName: strip-ansi
+SPDXID: SPDXRef-479
+PackageVersion: 5.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-426
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strip-ansi@5.2.0
+
+PackageName: strip-ansi
+SPDXID: SPDXRef-480
+PackageVersion: 5.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-427
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strip-ansi@5.2.0
+
+PackageName: strip-eof
+SPDXID: SPDXRef-481
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-428
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strip-eof@1.0.0
+
+PackageName: strip-json-comments
+SPDXID: SPDXRef-482
+PackageVersion: 2.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-429
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/strip-json-comments@2.0.1
+
+PackageName: supports-color
+SPDXID: SPDXRef-483
+PackageVersion: 5.4.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-430
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/supports-color@5.4.0
+
+PackageName: sysvinit-utils
+SPDXID: SPDXRef-484
+PackageVersion: 2.88dsf-59.10ubuntu1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/sysvinit-utils@2.88dsf-59.10ubuntu1?arch=amd64
+
+PackageName: tar
+SPDXID: SPDXRef-485
+PackageVersion: 1.29b-2ubuntu0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/tar@1.29b-2ubuntu0.2?arch=amd64
+
+PackageName: tar
+SPDXID: SPDXRef-486
+PackageVersion: 4.4.13
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-431
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/tar@4.4.13
+
+PackageName: term-size
+SPDXID: SPDXRef-487
+PackageVersion: 1.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-432
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/term-size@1.2.0
+
+PackageName: text-table
+SPDXID: SPDXRef-488
+PackageVersion: 0.2.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-433
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/text-table@0.2.0
+
+PackageName: through
+SPDXID: SPDXRef-489
+PackageVersion: 2.3.8
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-434
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/through@2.3.8
+
+PackageName: through2
+SPDXID: SPDXRef-490
+PackageVersion: 2.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-435
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/through2@2.0.3
+
+PackageName: timed-out
+SPDXID: SPDXRef-491
+PackageVersion: 4.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-436
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/timed-out@4.0.1
+
+PackageName: tiny-relative-date
+SPDXID: SPDXRef-492
+PackageVersion: 1.3.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-437
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/tiny-relative-date@1.3.0
+
+PackageName: tough-cookie
+SPDXID: SPDXRef-493
+PackageVersion: 2.4.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-438
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/tough-cookie@2.4.3
+
+PackageName: tunnel-agent
+SPDXID: SPDXRef-494
+PackageVersion: 0.6.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-439
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/tunnel-agent@0.6.0
+
+PackageName: tweetnacl
+SPDXID: SPDXRef-495
+PackageVersion: 0.14.5
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-440
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/tweetnacl@0.14.5
+
+PackageName: typedarray
+SPDXID: SPDXRef-496
+PackageVersion: 0.0.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-441
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/typedarray@0.0.6
+
+PackageName: tzdata
+SPDXID: SPDXRef-497
+PackageVersion: 2021a-0ubuntu0.18.04
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/tzdata@2021a-0ubuntu0.18.04?arch=all
+
+PackageName: ubuntu-keyring
+SPDXID: SPDXRef-498
+PackageVersion: 2018.09.18.1~18.04.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/ubuntu-keyring@2018.09.18.1~18.04.2?arch=all
+
+PackageName: uid-number
+SPDXID: SPDXRef-499
+PackageVersion: 0.0.6
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-442
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/uid-number@0.0.6
+
+PackageName: umask
+SPDXID: SPDXRef-500
+PackageVersion: 1.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-443
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/umask@1.1.0
+
+PackageName: unique-filename
+SPDXID: SPDXRef-501
+PackageVersion: 1.1.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-444
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/unique-filename@1.1.1
+
+PackageName: unique-slug
+SPDXID: SPDXRef-502
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-445
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/unique-slug@2.0.0
+
+PackageName: unique-string
+SPDXID: SPDXRef-503
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-446
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/unique-string@1.0.0
+
+PackageName: unpipe
+SPDXID: SPDXRef-504
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-447
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/unpipe@1.0.0
+
+PackageName: unzip-response
+SPDXID: SPDXRef-505
+PackageVersion: 2.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-448
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/unzip-response@2.0.1
+
+PackageName: update-notifier
+SPDXID: SPDXRef-506
+PackageVersion: 2.5.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-449
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/update-notifier@2.5.0
+
+PackageName: uri-js
+SPDXID: SPDXRef-507
+PackageVersion: 4.4.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-450
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/uri-js@4.4.0
+
+PackageName: url-parse-lax
+SPDXID: SPDXRef-508
+PackageVersion: 1.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-451
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/url-parse-lax@1.0.0
+
+PackageName: util-deprecate
+SPDXID: SPDXRef-509
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-452
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/util-deprecate@1.0.2
+
+PackageName: util-extend
+SPDXID: SPDXRef-510
+PackageVersion: 1.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-453
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/util-extend@1.0.3
+
+PackageName: util-linux
+SPDXID: SPDXRef-511
+PackageVersion: 2.31.1-0.4ubuntu3.7
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-454
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/util-linux@2.31.1-0.4ubuntu3.7?arch=amd64
+
+PackageName: util-promisify
+SPDXID: SPDXRef-512
+PackageVersion: 2.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-455
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/util-promisify@2.1.0
+
+PackageName: uuid
+SPDXID: SPDXRef-513
+PackageVersion: 3.3.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-456
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/uuid@3.3.3
+
+PackageName: validate-npm-package-license
+SPDXID: SPDXRef-514
+PackageVersion: 3.0.4
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-457
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/validate-npm-package-license@3.0.4
+
+PackageName: validate-npm-package-name
+SPDXID: SPDXRef-515
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-458
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/validate-npm-package-name@3.0.0
+
+PackageName: verror
+SPDXID: SPDXRef-516
+PackageVersion: 1.10.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-459
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/verror@1.10.0
+
+PackageName: wcwidth
+SPDXID: SPDXRef-517
+PackageVersion: 1.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-460
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/wcwidth@1.0.1
+
+PackageName: which
+SPDXID: SPDXRef-518
+PackageVersion: 1.3.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-461
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/which@1.3.1
+
+PackageName: which-module
+SPDXID: SPDXRef-519
+PackageVersion: 2.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-462
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/which-module@2.0.0
+
+PackageName: wide-align
+SPDXID: SPDXRef-520
+PackageVersion: 1.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-463
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/wide-align@1.1.2
+
+PackageName: widest-line
+SPDXID: SPDXRef-521
+PackageVersion: 2.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-464
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/widest-line@2.0.1
+
+PackageName: worker-farm
+SPDXID: SPDXRef-522
+PackageVersion: 1.7.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-465
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/worker-farm@1.7.0
+
+PackageName: wrap-ansi
+SPDXID: SPDXRef-523
+PackageVersion: 5.1.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-466
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/wrap-ansi@5.1.0
+
+PackageName: wrappy
+SPDXID: SPDXRef-524
+PackageVersion: 1.0.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-467
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/wrappy@1.0.2
+
+PackageName: write-file-atomic
+SPDXID: SPDXRef-525
+PackageVersion: 2.4.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-468
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/write-file-atomic@2.4.3
+
+PackageName: xdg-basedir
+SPDXID: SPDXRef-526
+PackageVersion: 3.0.0
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-469
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/xdg-basedir@3.0.0
+
+PackageName: xtend
+SPDXID: SPDXRef-527
+PackageVersion: 4.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-470
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/xtend@4.0.1
+
+PackageName: y18n
+SPDXID: SPDXRef-528
+PackageVersion: 4.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-471
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/y18n@4.0.1
+
+PackageName: yallist
+SPDXID: SPDXRef-529
+PackageVersion: 2.1.2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-472
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/yallist@2.1.2
+
+PackageName: yallist
+SPDXID: SPDXRef-530
+PackageVersion: 3.0.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-473
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/yallist@3.0.3
+
+PackageName: yargs
+SPDXID: SPDXRef-531
+PackageVersion: 14.2.3
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-474
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/yargs@14.2.3
+
+PackageName: yargs-parser
+SPDXID: SPDXRef-532
+PackageVersion: 15.0.1
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: LicenseRef-475
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:npm/yargs-parser@15.0.1
+
+PackageName: zlib1g
+SPDXID: SPDXRef-533
+PackageVersion: 1:1.2.11.dfsg-0ubuntu2
+PackageDownloadLocation: NOASSERTION
+FilesAnalyzed: false
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageCopyrightText: NOASSERTION
+External-Ref: PACKAGE-MANAGER purl pkg:deb/ubuntu/zlib1g@1:1.2.11.dfsg-0ubuntu2?arch=amd64
+
+LicenseID: LicenseRef-1
+LicenseName: (MIT OR Apache-2.0)
+
+LicenseID: LicenseRef-2
+LicenseName: ISC
+
+LicenseID: LicenseRef-3
+LicenseName: MIT
+
+LicenseID: LicenseRef-4
+LicenseName: MIT
+
+LicenseID: LicenseRef-5
+LicenseName: MIT
+
+LicenseID: LicenseRef-6
+LicenseName: MIT
+
+LicenseID: LicenseRef-7
+LicenseName: ISC
+
+LicenseID: LicenseRef-8
+LicenseName: MIT
+
+LicenseID: LicenseRef-9
+LicenseName: MIT
+
+LicenseID: LicenseRef-10
+LicenseName: MIT
+
+LicenseID: LicenseRef-11
+LicenseName: MIT
+
+LicenseID: LicenseRef-12
+LicenseName: MIT
+
+LicenseID: LicenseRef-13
+LicenseName: MIT
+
+LicenseID: LicenseRef-14
+LicenseName: MIT
+
+LicenseID: LicenseRef-15
+LicenseName: MIT
+
+LicenseID: LicenseRef-16
+LicenseName: ISC
+
+LicenseID: LicenseRef-17
+LicenseName: ISC
+
+LicenseID: LicenseRef-18
+LicenseName: ISC
+
+LicenseID: LicenseRef-19
+LicenseName: ISC
+
+LicenseID: LicenseRef-20
+LicenseName: ISC
+
+LicenseID: LicenseRef-21
+LicenseName: ISC
+
+LicenseID: LicenseRef-22
+LicenseName: GPLv2+
+
+LicenseID: LicenseRef-23
+LicenseName: MIT
+
+LicenseID: LicenseRef-24
+LicenseName: ISC
+
+LicenseID: LicenseRef-25
+LicenseName: MIT
+
+LicenseID: LicenseRef-26
+LicenseName: MIT
+
+LicenseID: LicenseRef-27
+LicenseName: MIT
+
+LicenseID: LicenseRef-28
+LicenseName: MIT
+
+LicenseID: LicenseRef-29
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-30
+LicenseName: MIT
+
+LicenseID: LicenseRef-31
+LicenseName: MIT
+
+LicenseID: LicenseRef-32
+LicenseName: GPL-2
+
+LicenseID: LicenseRef-33
+LicenseName: BSD-3-Clause
+
+LicenseID: LicenseRef-34
+LicenseName: Artistic-2.0
+
+LicenseID: LicenseRef-35
+LicenseName: MIT
+
+LicenseID: LicenseRef-36
+LicenseName: MIT
+
+LicenseID: LicenseRef-37
+LicenseName: MIT
+
+LicenseID: LicenseRef-38
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-39
+LicenseName: MIT
+
+LicenseID: LicenseRef-40
+LicenseName: MIT
+
+LicenseID: LicenseRef-41
+LicenseName: MIT
+
+LicenseID: LicenseRef-42
+LicenseName: MIT
+
+LicenseID: LicenseRef-43
+LicenseName: GPL-2+
+
+LicenseID: LicenseRef-44
+LicenseName: ISC
+
+LicenseID: LicenseRef-45
+LicenseName: ISC
+
+LicenseID: LicenseRef-46
+LicenseName: MIT
+
+LicenseID: LicenseRef-47
+LicenseName: MIT
+
+LicenseID: LicenseRef-48
+LicenseName: MIT
+
+LicenseID: LicenseRef-49
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-50
+LicenseName: MIT
+
+LicenseID: LicenseRef-51
+LicenseName: ISC
+
+LicenseID: LicenseRef-52
+LicenseName: MIT
+
+LicenseID: LicenseRef-53
+LicenseName: MIT
+
+LicenseID: LicenseRef-54
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-55
+LicenseName: MIT
+
+LicenseID: LicenseRef-56
+LicenseName: MIT
+
+LicenseID: LicenseRef-57
+LicenseName: MIT
+
+LicenseID: LicenseRef-58
+LicenseName: ISC
+
+LicenseID: LicenseRef-59
+LicenseName: MIT
+
+LicenseID: LicenseRef-60
+LicenseName: ISC
+
+LicenseID: LicenseRef-61
+LicenseName: MIT
+
+LicenseID: LicenseRef-62
+LicenseName: MIT
+
+LicenseID: LicenseRef-63
+LicenseName: MIT
+
+LicenseID: LicenseRef-64
+LicenseName: MIT
+
+LicenseID: LicenseRef-65
+LicenseName: MIT
+
+LicenseID: LicenseRef-66
+LicenseName: MIT
+
+LicenseID: LicenseRef-67
+LicenseName: MIT
+
+LicenseID: LicenseRef-68
+LicenseName: MIT
+
+LicenseID: LicenseRef-69
+LicenseName: MIT
+
+LicenseID: LicenseRef-70
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-71
+LicenseName: ISC
+
+LicenseID: LicenseRef-72
+LicenseName: ISC
+
+LicenseID: LicenseRef-73
+LicenseName: MIT
+
+LicenseID: LicenseRef-74
+LicenseName: MIT
+
+LicenseID: LicenseRef-75
+LicenseName: MIT
+
+LicenseID: LicenseRef-76
+LicenseName: MIT
+
+LicenseID: LicenseRef-77
+LicenseName: MIT
+
+LicenseID: LicenseRef-78
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-79
+LicenseName: MIT
+
+LicenseID: LicenseRef-80
+LicenseName: MIT
+
+LicenseID: LicenseRef-81
+LicenseName: MIT
+
+LicenseID: LicenseRef-82
+LicenseName: MIT
+
+LicenseID: LicenseRef-83
+LicenseName: MIT
+
+LicenseID: LicenseRef-84
+LicenseName: MIT
+
+LicenseID: LicenseRef-85
+LicenseName: MIT
+
+LicenseID: LicenseRef-86
+LicenseName: MIT
+
+LicenseID: LicenseRef-87
+LicenseName: MIT
+
+LicenseID: LicenseRef-88
+LicenseName: MIT
+
+LicenseID: LicenseRef-89
+LicenseName: MIT
+
+LicenseID: LicenseRef-90
+LicenseName: ISC
+
+LicenseID: LicenseRef-91
+LicenseName: MIT
+
+LicenseID: LicenseRef-92
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-93
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-94
+LicenseName: BSD-3-Clause
+
+LicenseID: LicenseRef-95
+LicenseName: MIT
+
+LicenseID: LicenseRef-96
+LicenseName: MIT
+
+LicenseID: LicenseRef-97
+LicenseName: MIT
+
+LicenseID: LicenseRef-98
+LicenseName: MIT
+
+LicenseID: LicenseRef-99
+LicenseName: MIT
+
+LicenseID: LicenseRef-100
+LicenseName: MIT
+
+LicenseID: LicenseRef-101
+LicenseName: MIT
+
+LicenseID: LicenseRef-102
+LicenseName: MIT
+
+LicenseID: LicenseRef-103
+LicenseName: MIT
+
+LicenseID: LicenseRef-104
+LicenseName: MIT
+
+LicenseID: LicenseRef-105
+LicenseName: MIT
+
+LicenseID: LicenseRef-106
+LicenseName: MIT
+
+LicenseID: LicenseRef-107
+LicenseName: MIT
+
+LicenseID: LicenseRef-108
+LicenseName: MIT
+
+LicenseID: LicenseRef-109
+LicenseName: MIT
+
+LicenseID: LicenseRef-110
+LicenseName: MIT
+
+LicenseID: LicenseRef-111
+LicenseName: MIT
+
+LicenseID: LicenseRef-112
+LicenseName: MIT
+
+LicenseID: LicenseRef-113
+LicenseName: MIT
+
+LicenseID: LicenseRef-114
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-115
+LicenseName: ISC
+
+LicenseID: LicenseRef-116
+LicenseName: ISC
+
+LicenseID: LicenseRef-117
+LicenseName: MIT
+
+LicenseID: LicenseRef-118
+LicenseName: MIT
+
+LicenseID: LicenseRef-119
+LicenseName: MIT
+
+LicenseID: LicenseRef-120
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-121
+LicenseName: MIT
+
+LicenseID: LicenseRef-122
+LicenseName: MIT
+
+LicenseID: LicenseRef-123
+LicenseName: MIT
+
+LicenseID: LicenseRef-124
+LicenseName: ISC
+
+LicenseID: LicenseRef-125
+LicenseName: ISC
+
+LicenseID: LicenseRef-126
+LicenseName: ISC
+
+LicenseID: LicenseRef-127
+LicenseName: ISC
+
+LicenseID: LicenseRef-128
+LicenseName: MIT
+
+LicenseID: LicenseRef-129
+LicenseName: ISC
+
+LicenseID: LicenseRef-130
+LicenseName: MIT
+
+LicenseID: LicenseRef-131
+LicenseName: Artistic-2.0
+
+LicenseID: LicenseRef-132
+LicenseName: ISC
+
+LicenseID: LicenseRef-133
+LicenseName: MIT
+
+LicenseID: LicenseRef-134
+LicenseName: MIT
+
+LicenseID: LicenseRef-135
+LicenseName: MIT
+
+LicenseID: LicenseRef-136
+LicenseName: MIT
+
+LicenseID: LicenseRef-137
+LicenseName: ISC
+
+LicenseID: LicenseRef-138
+LicenseName: MIT
+
+LicenseID: LicenseRef-139
+LicenseName: MIT
+
+LicenseID: LicenseRef-140
+LicenseName: BSD-3-clause
+
+LicenseID: LicenseRef-141
+LicenseName: ISC
+
+LicenseID: LicenseRef-142
+LicenseName: GPL-3+
+
+LicenseID: LicenseRef-143
+LicenseName: ISC
+
+LicenseID: LicenseRef-144
+LicenseName: MIT
+
+LicenseID: LicenseRef-145
+LicenseName: MIT
+
+LicenseID: LicenseRef-146
+LicenseName: MIT
+
+LicenseID: LicenseRef-147
+LicenseName: MIT
+
+LicenseID: LicenseRef-148
+LicenseName: ISC
+
+LicenseID: LicenseRef-149
+LicenseName: ISC
+
+LicenseID: LicenseRef-150
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-151
+LicenseName: MIT
+
+LicenseID: LicenseRef-152
+LicenseName: MIT
+
+LicenseID: LicenseRef-153
+LicenseName: MIT
+
+LicenseID: LicenseRef-154
+LicenseName: MIT
+
+LicenseID: LicenseRef-155
+LicenseName: MIT
+
+LicenseID: LicenseRef-156
+LicenseName: MIT
+
+LicenseID: LicenseRef-157
+LicenseName: MIT
+
+LicenseID: LicenseRef-158
+LicenseName: MIT
+
+LicenseID: LicenseRef-159
+LicenseName: MIT
+
+LicenseID: LicenseRef-160
+LicenseName: ISC
+
+LicenseID: LicenseRef-161
+LicenseName: MIT
+
+LicenseID: LicenseRef-162
+LicenseName: MIT
+
+LicenseID: LicenseRef-163
+LicenseName: ISC
+
+LicenseID: LicenseRef-164
+LicenseName: ISC
+
+LicenseID: LicenseRef-165
+LicenseName: ISC
+
+LicenseID: LicenseRef-166
+LicenseName: ISC
+
+LicenseID: LicenseRef-167
+LicenseName: ISC
+
+LicenseID: LicenseRef-168
+LicenseName: BSD-3-clause
+
+LicenseID: LicenseRef-169
+LicenseName: MIT
+
+LicenseID: LicenseRef-170
+LicenseName: MIT
+
+LicenseID: LicenseRef-171
+LicenseName: MIT
+
+LicenseID: LicenseRef-172
+LicenseName: MIT
+
+LicenseID: LicenseRef-173
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-174
+LicenseName: MIT
+
+LicenseID: LicenseRef-175
+LicenseName: MIT
+
+LicenseID: LicenseRef-176
+LicenseName: MIT
+
+LicenseID: LicenseRef-177
+LicenseName: MIT
+
+LicenseID: LicenseRef-178
+LicenseName: MIT
+
+LicenseID: LicenseRef-179
+LicenseName: MIT
+
+LicenseID: LicenseRef-180
+LicenseName: MIT
+
+LicenseID: LicenseRef-181
+LicenseName: MIT
+
+LicenseID: LicenseRef-182
+LicenseName: MIT
+
+LicenseID: LicenseRef-183
+LicenseName: MIT
+
+LicenseID: LicenseRef-184
+LicenseName: MIT
+
+LicenseID: LicenseRef-185
+LicenseName: MIT
+
+LicenseID: LicenseRef-186
+LicenseName: MIT
+
+LicenseID: LicenseRef-187
+LicenseName: MIT
+
+LicenseID: LicenseRef-188
+LicenseName: MIT
+
+LicenseID: LicenseRef-189
+LicenseName: MIT
+
+LicenseID: LicenseRef-190
+LicenseName: MIT
+
+LicenseID: LicenseRef-191
+LicenseName: MIT
+
+LicenseID: LicenseRef-192
+LicenseName: ISC
+
+LicenseID: LicenseRef-193
+LicenseName: MIT
+
+LicenseID: LicenseRef-194
+LicenseName: MIT
+
+LicenseID: LicenseRef-195
+LicenseName: MIT
+
+LicenseID: LicenseRef-196
+LicenseName: AFLv2.1
+
+LicenseID: LicenseRef-197
+LicenseName: MIT
+
+LicenseID: LicenseRef-198
+LicenseName: ISC
+
+LicenseID: LicenseRef-199
+LicenseName: MIT
+
+LicenseID: LicenseRef-200
+LicenseName: MIT
+
+LicenseID: LicenseRef-201
+LicenseName: MIT
+
+LicenseID: LicenseRef-202
+LicenseName: MIT
+
+LicenseID: LicenseRef-203
+LicenseName: GPLv2+
+
+LicenseID: LicenseRef-204
+LicenseName: GPL-2
+
+LicenseID: LicenseRef-205
+LicenseName: GPL-2
+
+LicenseID: LicenseRef-206
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-207
+LicenseName: MIT
+
+LicenseID: LicenseRef-208
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-209
+LicenseName: CC0
+
+LicenseID: LicenseRef-210
+LicenseName: BSD-3-clause
+
+LicenseID: LicenseRef-211
+LicenseName: GAP
+
+LicenseID: LicenseRef-212
+LicenseName: GPL-2+
+
+LicenseID: LicenseRef-213
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-214
+LicenseName: Autoconf
+
+LicenseID: LicenseRef-215
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-216
+LicenseName: GAP
+
+LicenseID: LicenseRef-217
+LicenseName: ISC
+
+LicenseID: LicenseRef-218
+LicenseName: ISC
+
+LicenseID: LicenseRef-219
+LicenseName: ISC
+
+LicenseID: LicenseRef-220
+LicenseName: ISC
+
+LicenseID: LicenseRef-221
+LicenseName: ISC
+
+LicenseID: LicenseRef-222
+LicenseName: ISC
+
+LicenseID: LicenseRef-223
+LicenseName: ISC
+
+LicenseID: LicenseRef-224
+LicenseName: ISC
+
+LicenseID: LicenseRef-225
+LicenseName: ISC
+
+LicenseID: LicenseRef-226
+LicenseName: BSD-3-Clause
+
+LicenseID: LicenseRef-227
+LicenseName: GPL-2.0+
+
+LicenseID: LicenseRef-228
+LicenseName: LGPL-2.0+
+
+LicenseID: LicenseRef-229
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-230
+LicenseName: CC0-1.0
+
+LicenseID: LicenseRef-231
+LicenseName: CC0-1.0
+
+LicenseID: LicenseRef-232
+LicenseName: FreeSoftware
+
+LicenseID: LicenseRef-233
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-234
+LicenseName: Expat
+
+LicenseID: LicenseRef-235
+LicenseName: BSD-3-clause-with-patent-grant
+
+LicenseID: LicenseRef-236
+LicenseName: MIT
+
+LicenseID: LicenseRef-237
+LicenseName: MIT
+
+LicenseID: LicenseRef-238
+LicenseName: ISC
+
+LicenseID: LicenseRef-239
+LicenseName: ISC
+
+LicenseID: LicenseRef-240
+LicenseName: MIT
+
+LicenseID: LicenseRef-241
+LicenseName: MIT
+
+LicenseID: LicenseRef-242
+LicenseName: MIT
+
+LicenseID: LicenseRef-243
+LicenseName: MIT
+
+LicenseID: LicenseRef-244
+LicenseName: MIT
+
+LicenseID: LicenseRef-245
+LicenseName: MIT
+
+LicenseID: LicenseRef-246
+LicenseName: MIT
+
+LicenseID: LicenseRef-247
+LicenseName: MIT
+
+LicenseID: LicenseRef-248
+LicenseName: MIT
+
+LicenseID: LicenseRef-249
+LicenseName: MIT
+
+LicenseID: LicenseRef-250
+LicenseName: MIT
+
+LicenseID: LicenseRef-251
+LicenseName: MIT
+
+LicenseID: LicenseRef-252
+LicenseName: MIT
+
+LicenseID: LicenseRef-253
+LicenseName: MIT
+
+LicenseID: LicenseRef-254
+LicenseName: ISC
+
+LicenseID: LicenseRef-255
+LicenseName: ISC
+
+LicenseID: LicenseRef-256
+LicenseName: BSD-3-clause
+
+LicenseID: LicenseRef-257
+LicenseName: MIT
+
+LicenseID: LicenseRef-258
+LicenseName: ISC
+
+LicenseID: LicenseRef-259
+LicenseName: MIT
+
+LicenseID: LicenseRef-260
+LicenseName: MIT
+
+LicenseID: LicenseRef-261
+LicenseName: MIT
+
+LicenseID: LicenseRef-262
+LicenseName: ISC
+
+LicenseID: LicenseRef-263
+LicenseName: MIT
+
+LicenseID: LicenseRef-264
+LicenseName: MIT
+
+LicenseID: LicenseRef-265
+LicenseName: ISC
+
+LicenseID: LicenseRef-266
+LicenseName: ISC
+
+LicenseID: LicenseRef-267
+LicenseName: ISC
+
+LicenseID: LicenseRef-268
+LicenseName: ISC
+
+LicenseID: LicenseRef-269
+LicenseName: MIT
+
+LicenseID: LicenseRef-270
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-271
+LicenseName: MIT
+
+LicenseID: LicenseRef-272
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-273
+LicenseName: ISC
+
+LicenseID: LicenseRef-274
+LicenseName: MIT
+
+LicenseID: LicenseRef-275
+LicenseName: MIT
+
+LicenseID: LicenseRef-276
+LicenseName: ISC
+
+LicenseID: LicenseRef-277
+LicenseName: MIT
+
+LicenseID: LicenseRef-278
+LicenseName: MIT
+
+LicenseID: LicenseRef-279
+LicenseName: ISC
+
+LicenseID: LicenseRef-280
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-281
+LicenseName: Artistic-2.0
+
+LicenseID: LicenseRef-282
+LicenseName: ISC
+
+LicenseID: LicenseRef-283
+LicenseName: ISC
+
+LicenseID: LicenseRef-284
+LicenseName: ISC
+
+LicenseID: LicenseRef-285
+LicenseName: Artistic-2.0
+
+LicenseID: LicenseRef-286
+LicenseName: BSD
+
+LicenseID: LicenseRef-287
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-288
+LicenseName: Artistic-2.0
+
+LicenseID: LicenseRef-289
+LicenseName: ISC
+
+LicenseID: LicenseRef-290
+LicenseName: ISC
+
+LicenseID: LicenseRef-291
+LicenseName: ISC
+
+LicenseID: LicenseRef-292
+LicenseName: ISC
+
+LicenseID: LicenseRef-293
+LicenseName: ISC
+
+LicenseID: LicenseRef-294
+LicenseName: ISC
+
+LicenseID: LicenseRef-295
+LicenseName: ISC
+
+LicenseID: LicenseRef-296
+LicenseName: MIT
+
+LicenseID: LicenseRef-297
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-298
+LicenseName: ISC
+
+LicenseID: LicenseRef-299
+LicenseName: MIT
+
+LicenseID: LicenseRef-300
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-301
+LicenseName: MIT
+
+LicenseID: LicenseRef-302
+LicenseName: MIT
+
+LicenseID: LicenseRef-303
+LicenseName: MIT
+
+LicenseID: LicenseRef-304
+LicenseName: ISC
+
+LicenseID: LicenseRef-305
+LicenseName: (WTFPL OR MIT)
+
+LicenseID: LicenseRef-306
+LicenseName: MIT
+
+LicenseID: LicenseRef-307
+LicenseName: MIT
+
+LicenseID: LicenseRef-308
+LicenseName: ISC
+
+LicenseID: LicenseRef-309
+LicenseName: MIT
+
+LicenseID: LicenseRef-310
+LicenseName: MIT
+
+LicenseID: LicenseRef-311
+LicenseName: MIT
+
+LicenseID: LicenseRef-312
+LicenseName: MIT
+
+LicenseID: LicenseRef-313
+LicenseName: MIT
+
+LicenseID: LicenseRef-314
+LicenseName: MIT
+
+LicenseID: LicenseRef-315
+LicenseName: MIT
+
+LicenseID: LicenseRef-316
+LicenseName: MIT
+
+LicenseID: LicenseRef-317
+LicenseName: MIT
+
+LicenseID: LicenseRef-318
+LicenseName: MIT
+
+LicenseID: LicenseRef-319
+LicenseName: MIT
+
+LicenseID: LicenseRef-320
+LicenseName: MIT
+
+LicenseID: LicenseRef-321
+LicenseName: (WTFPL OR MIT)
+
+LicenseID: LicenseRef-322
+LicenseName: MIT
+
+LicenseID: LicenseRef-323
+LicenseName: MIT
+
+LicenseID: LicenseRef-324
+LicenseName: MIT
+
+LicenseID: LicenseRef-325
+LicenseName: Artistic
+
+LicenseID: LicenseRef-326
+LicenseName: MIT
+
+LicenseID: LicenseRef-327
+LicenseName: MIT
+
+LicenseID: LicenseRef-328
+LicenseName: MIT
+
+LicenseID: LicenseRef-329
+LicenseName: GPL-2.0+
+
+LicenseID: LicenseRef-330
+LicenseName: ISC
+
+LicenseID: LicenseRef-331
+LicenseName: MIT
+
+LicenseID: LicenseRef-332
+LicenseName: ISC
+
+LicenseID: LicenseRef-333
+LicenseName: ISC
+
+LicenseID: LicenseRef-334
+LicenseName: MIT
+
+LicenseID: LicenseRef-335
+LicenseName: MIT
+
+LicenseID: LicenseRef-336
+LicenseName: ISC
+
+LicenseID: LicenseRef-337
+LicenseName: MIT
+
+LicenseID: LicenseRef-338
+LicenseName: MIT
+
+LicenseID: LicenseRef-339
+LicenseName: MIT
+
+LicenseID: LicenseRef-340
+LicenseName: MIT
+
+LicenseID: LicenseRef-341
+LicenseName: MIT
+
+LicenseID: LicenseRef-342
+LicenseName: MIT
+
+LicenseID: LicenseRef-343
+LicenseName: Apache 2.0
+
+LicenseID: LicenseRef-344
+LicenseName: BSD-3-Clause
+
+LicenseID: LicenseRef-345
+LicenseName: MIT
+
+LicenseID: LicenseRef-346
+LicenseName: ISC
+
+LicenseID: LicenseRef-347
+LicenseName: (BSD-2-Clause OR MIT OR Apache-2.0)
+
+LicenseID: LicenseRef-348
+LicenseName: ISC
+
+LicenseID: LicenseRef-349
+LicenseName: ISC
+
+LicenseID: LicenseRef-350
+LicenseName: ISC
+
+LicenseID: LicenseRef-351
+LicenseName: ISC
+
+LicenseID: LicenseRef-352
+LicenseName: ISC
+
+LicenseID: LicenseRef-353
+LicenseName: MIT
+
+LicenseID: LicenseRef-354
+LicenseName: MIT
+
+LicenseID: LicenseRef-355
+LicenseName: MIT
+
+LicenseID: LicenseRef-356
+LicenseName: MIT
+
+LicenseID: LicenseRef-357
+LicenseName: MIT
+
+LicenseID: LicenseRef-358
+LicenseName: MIT
+
+LicenseID: LicenseRef-359
+LicenseName: MIT
+
+LicenseID: LicenseRef-360
+LicenseName: MIT
+
+LicenseID: LicenseRef-361
+LicenseName: MIT
+
+LicenseID: LicenseRef-362
+LicenseName: MIT
+
+LicenseID: LicenseRef-363
+LicenseName: MIT
+
+LicenseID: LicenseRef-364
+LicenseName: ISC
+
+LicenseID: LicenseRef-365
+LicenseName: MIT
+
+LicenseID: LicenseRef-366
+LicenseName: MIT
+
+LicenseID: LicenseRef-367
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-368
+LicenseName: MIT
+
+LicenseID: LicenseRef-369
+LicenseName: ISC
+
+LicenseID: LicenseRef-370
+LicenseName: MIT
+
+LicenseID: LicenseRef-371
+LicenseName: MIT
+
+LicenseID: LicenseRef-372
+LicenseName: MIT
+
+LicenseID: LicenseRef-373
+LicenseName: MIT
+
+LicenseID: LicenseRef-374
+LicenseName: ISC
+
+LicenseID: LicenseRef-375
+LicenseName: ISC
+
+LicenseID: LicenseRef-376
+LicenseName: MIT
+
+LicenseID: LicenseRef-377
+LicenseName: MIT
+
+LicenseID: LicenseRef-378
+LicenseName: MIT
+
+LicenseID: LicenseRef-379
+LicenseName: MIT
+
+LicenseID: LicenseRef-380
+LicenseName: ISC
+
+LicenseID: LicenseRef-381
+LicenseName: MIT
+
+LicenseID: LicenseRef-382
+LicenseName: All-permissive
+
+LicenseID: LicenseRef-383
+LicenseName: ISC
+
+LicenseID: LicenseRef-384
+LicenseName: (BSD-2-Clause OR MIT)
+
+LicenseID: LicenseRef-385
+LicenseName: MIT
+
+LicenseID: LicenseRef-386
+LicenseName: MIT
+
+LicenseID: LicenseRef-387
+LicenseName: ISC
+
+LicenseID: LicenseRef-388
+LicenseName: ISC
+
+LicenseID: LicenseRef-389
+LicenseName: MIT
+
+LicenseID: LicenseRef-390
+LicenseName: MIT
+
+LicenseID: LicenseRef-391
+LicenseName: MIT
+
+LicenseID: LicenseRef-392
+LicenseName: (WTFPL OR MIT)
+
+LicenseID: LicenseRef-393
+LicenseName: MIT
+
+LicenseID: LicenseRef-394
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-395
+LicenseName: CC-BY-3.0
+
+LicenseID: LicenseRef-396
+LicenseName: MIT
+
+LicenseID: LicenseRef-397
+LicenseName: CC0-1.0
+
+LicenseID: LicenseRef-398
+LicenseName: MIT
+
+LicenseID: LicenseRef-399
+LicenseName: MIT
+
+LicenseID: LicenseRef-400
+LicenseName: ISC
+
+LicenseID: LicenseRef-401
+LicenseName: MIT
+
+LicenseID: LicenseRef-402
+LicenseName: MIT
+
+LicenseID: LicenseRef-403
+LicenseName: MIT
+
+LicenseID: LicenseRef-404
+LicenseName: MIT
+
+LicenseID: LicenseRef-405
+LicenseName: MIT
+
+LicenseID: LicenseRef-406
+LicenseName: MIT
+
+LicenseID: LicenseRef-407
+LicenseName: MIT
+
+LicenseID: LicenseRef-408
+LicenseName: MIT
+
+LicenseID: LicenseRef-409
+LicenseName: MIT
+
+LicenseID: LicenseRef-410
+LicenseName: MIT
+
+LicenseID: LicenseRef-411
+LicenseName: MIT
+
+LicenseID: LicenseRef-412
+LicenseName: MIT
+
+LicenseID: LicenseRef-413
+LicenseName: MIT
+
+LicenseID: LicenseRef-414
+LicenseName: MIT
+
+LicenseID: LicenseRef-415
+LicenseName: MIT
+
+LicenseID: LicenseRef-416
+LicenseName: MIT
+
+LicenseID: LicenseRef-417
+LicenseName: MIT
+
+LicenseID: LicenseRef-418
+LicenseName: MIT
+
+LicenseID: LicenseRef-419
+LicenseName: MIT
+
+LicenseID: LicenseRef-420
+LicenseName: MIT
+
+LicenseID: LicenseRef-421
+LicenseName: MIT
+
+LicenseID: LicenseRef-422
+LicenseName: ISC
+
+LicenseID: LicenseRef-423
+LicenseName: MIT
+
+LicenseID: LicenseRef-424
+LicenseName: MIT
+
+LicenseID: LicenseRef-425
+LicenseName: MIT
+
+LicenseID: LicenseRef-426
+LicenseName: MIT
+
+LicenseID: LicenseRef-427
+LicenseName: MIT
+
+LicenseID: LicenseRef-428
+LicenseName: MIT
+
+LicenseID: LicenseRef-429
+LicenseName: MIT
+
+LicenseID: LicenseRef-430
+LicenseName: MIT
+
+LicenseID: LicenseRef-431
+LicenseName: ISC
+
+LicenseID: LicenseRef-432
+LicenseName: MIT
+
+LicenseID: LicenseRef-433
+LicenseName: MIT
+
+LicenseID: LicenseRef-434
+LicenseName: MIT
+
+LicenseID: LicenseRef-435
+LicenseName: MIT
+
+LicenseID: LicenseRef-436
+LicenseName: MIT
+
+LicenseID: LicenseRef-437
+LicenseName: MIT
+
+LicenseID: LicenseRef-438
+LicenseName: BSD-3-Clause
+
+LicenseID: LicenseRef-439
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-440
+LicenseName: Unlicense
+
+LicenseID: LicenseRef-441
+LicenseName: MIT
+
+LicenseID: LicenseRef-442
+LicenseName: ISC
+
+LicenseID: LicenseRef-443
+LicenseName: MIT
+
+LicenseID: LicenseRef-444
+LicenseName: ISC
+
+LicenseID: LicenseRef-445
+LicenseName: ISC
+
+LicenseID: LicenseRef-446
+LicenseName: MIT
+
+LicenseID: LicenseRef-447
+LicenseName: MIT
+
+LicenseID: LicenseRef-448
+LicenseName: MIT
+
+LicenseID: LicenseRef-449
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-450
+LicenseName: BSD-2-Clause
+
+LicenseID: LicenseRef-451
+LicenseName: MIT
+
+LicenseID: LicenseRef-452
+LicenseName: MIT
+
+LicenseID: LicenseRef-453
+LicenseName: MIT
+
+LicenseID: LicenseRef-454
+LicenseName: BSD-2-clause
+
+LicenseID: LicenseRef-455
+LicenseName: MIT
+
+LicenseID: LicenseRef-456
+LicenseName: MIT
+
+LicenseID: LicenseRef-457
+LicenseName: Apache-2.0
+
+LicenseID: LicenseRef-458
+LicenseName: ISC
+
+LicenseID: LicenseRef-459
+LicenseName: MIT
+
+LicenseID: LicenseRef-460
+LicenseName: MIT
+
+LicenseID: LicenseRef-461
+LicenseName: ISC
+
+LicenseID: LicenseRef-462
+LicenseName: ISC
+
+LicenseID: LicenseRef-463
+LicenseName: ISC
+
+LicenseID: LicenseRef-464
+LicenseName: MIT
+
+LicenseID: LicenseRef-465
+LicenseName: MIT
+
+LicenseID: LicenseRef-466
+LicenseName: MIT
+
+LicenseID: LicenseRef-467
+LicenseName: ISC
+
+LicenseID: LicenseRef-468
+LicenseName: ISC
+
+LicenseID: LicenseRef-469
+LicenseName: MIT
+
+LicenseID: LicenseRef-470
+LicenseName: MIT
+
+LicenseID: LicenseRef-471
+LicenseName: ISC
+
+LicenseID: LicenseRef-472
+LicenseName: ISC
+
+LicenseID: LicenseRef-473
+LicenseName: ISC
+
+LicenseID: LicenseRef-474
+LicenseName: MIT
+
+LicenseID: LicenseRef-475
+LicenseName: ISC

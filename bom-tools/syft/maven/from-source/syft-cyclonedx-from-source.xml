@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bom xmlns="http://cyclonedx.org/schema/bom/1.2" version="1" serialNumber="urn:uuid:4d9050a6-9603-42f3-a23d-c5c4ad057517">
+  <metadata>
+    <timestamp>2021-06-16T11:40:47-04:00</timestamp>
+    <tools>
+      <tool>
+        <vendor>anchore</vendor>
+        <name>syft</name>
+        <version>0.17.0</version>
+      </tool>
+    </tools>
+    <component type="file">
+      <name>/Users/swigmore/workspace/paketo-buildpacks/samples/java/maven</name>
+      <version></version>
+    </component>
+  </metadata>
+  <components>
+    <component type="library">
+      <name>maven-wrapper</name>
+      <version>0.5.6</version>
+      <purl>pkg:maven/io.takari/maven-wrapper@0.5.6</purl>
+    </component>
+  </components>
+</bom>

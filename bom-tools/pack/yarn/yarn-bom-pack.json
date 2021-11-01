@@ -1,0 +1,65 @@
+{
+  "remote": null,
+  "local": [
+    {
+      "name": "helper",
+      "metadata": {
+        "layer": "helper",
+        "names": [
+          "ca-certificates-helper"
+        ],
+        "version": "2.2.0"
+      },
+      "buildpacks": {
+        "id": "paketo-buildpacks/ca-certificates",
+        "version": "2.2.0"
+      }
+    },
+    {
+      "name": "node",
+      "metadata": {
+        "licenses": [],
+        "name": "Node Engine",
+        "sha256": "2ebd327ccedbe0b4ac45639679abba835145d916a58f48fd4b17db21ed29e75e",
+        "stacks": [
+          "io.buildpacks.stacks.bionic",
+          "org.cloudfoundry.stacks.cflinuxfs3"
+        ],
+        "uri": "https://buildpacks.cloudfoundry.org/dependencies/node/node_14.17.0_linux_x64_cflinuxfs3_2ebd327c.tgz",
+        "version": "14.17.0"
+      },
+      "buildpacks": {
+        "id": "paketo-buildpacks/node-engine",
+        "version": "0.4.0"
+      }
+    },
+    {
+      "name": "yarn",
+      "metadata": {
+        "licenses": [],
+        "name": "Yarn",
+        "sha256": "0057c1c90c3eadc953cc3e6772fd1477179d30a7007ac46ca148dd7bfab1d188",
+        "stacks": [
+          "io.buildpacks.stacks.bionic",
+          "org.cloudfoundry.stacks.cflinuxfs3"
+        ],
+        "uri": "https://buildpacks.cloudfoundry.org/dependencies/yarn/yarn_1.22.10_linux_noarch_any-stack_0057c1c9.tgz",
+        "version": "1.22.10"
+      },
+      "buildpacks": {
+        "id": "paketo-buildpacks/yarn",
+        "version": "0.2.0"
+      }
+    },
+    {
+      "name": "node_modules",
+      "metadata": {
+        "launch": true
+      },
+      "buildpacks": {
+        "id": "paketo-buildpacks/yarn-install",
+        "version": "0.3.0"
+      }
+    }
+  ]
+}
