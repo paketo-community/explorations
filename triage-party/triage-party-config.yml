@@ -1,0 +1,166 @@
+# Copyright 2020 Google Inc.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+---
+settings:
+  name: Buildpacks
+  # On a scale of 0-1, how similar do two issues need to be to be tagged as "similar"
+  min_similarity: 0.75
+  # Repositories to query, can be overridden by -repos
+  repos:
+    # Paketo
+    # node/javascript
+    - https://github.com/paketo-buildpacks/nodejs
+    - https://github.com/paketo-buildpacks/npm-install
+    - https://github.com/paketo-buildpacks/yarn-install
+    - https://github.com/paketo-buildpacks/node-start
+    - https://github.com/paketo-buildpacks/yarn
+    - https://github.com/paketo-buildpacks/yarn-start
+    - https://github.com/paketo-buildpacks/npm-start
+    - https://github.com/paketo-buildpacks/node-engine
+
+    # Go
+    - https://github.com/paketo-buildpacks/go
+    - https://github.com/paketo-buildpacks/go-mod-vendor
+    - https://github.com/paketo-buildpacks/dep
+    - https://github.com/paketo-buildpacks/go-dist
+    - https://github.com/paketo-buildpacks/go-build
+    - https://github.com/paketo-buildpacks/dep-ensure
+
+    # PHP
+    - https://github.com/paketo-buildpacks/php
+    - https://github.com/paketo-buildpacks/php-dist
+    - https://github.com/paketo-buildpacks/php-web
+    - https://github.com/paketo-buildpacks/php-composer
+
+    # Web
+    - https://github.com/paketo-buildpacks/httpd
+    - https://github.com/paketo-buildpacks/nginx
+
+    # Dotnet
+    - https://github.com/paketo-buildpacks/dotnet-core
+    - https://github.com/paketo-buildpacks/dotnet-core-sdk
+    - https://github.com/paketo-buildpacks/dotnet-core-runtime
+    - https://github.com/paketo-buildpacks/dotnet-core-aspnet
+    - https://github.com/paketo-buildpacks/dotnet-execute
+    - https://github.com/paketo-buildpacks/dotnet-publish
+    - https://github.com/paketo-buildpacks/icu
+
+    # Ruby
+    - https://github.com/paketo-buildpacks/ruby
+    - https://github.com/paketo-buildpacks/mri
+    - https://github.com/paketo-buildpacks/bundler
+    - https://github.com/paketo-buildpacks/bundle-install
+    - https://github.com/paketo-buildpacks/puma
+    - https://github.com/paketo-buildpacks/rackup
+    - https://github.com/paketo-buildpacks/unicorn
+    - https://github.com/paketo-buildpacks/thin
+    - https://github.com/paketo-buildpacks/passenger
+    - https://github.com/paketo-buildpacks/rack
+    - https://github.com/paketo-buildpacks/rails-assets
+
+    # Tooling/utilities
+    - https://github.com/paketo-buildpacks/packit
+    - https://github.com/paketo-buildpacks/occam
+    - https://github.com/paketo-buildpacks/github-config
+
+    # Builders
+    - https://github.com/paketo-buildpacks/builder
+    - https://github.com/paketo-buildpacks/full-builder
+    - https://github.com/paketo-buildpacks/base-builder
+    - https://github.com/paketo-buildpacks/tiny-builder
+
+
+  member-roles: []
+  # Who should automatically be considered a project member?
+  # See: https://developer.github.com/v4/enum/commentauthorassociation/
+  # Default is "collaborator, owner, member", unless "members" is set
+  #
+  # member-roles:
+  #  - collaborator
+  #  - owner
+  #  - member
+  members: []
+  # Who else do we consider to be a project member? Default is empty.
+  # members:
+  #  - tstromberg
+
+collections:
+
+  - id: weekly
+    name: Weekly Triage
+    dedup: true
+    description: To be emptied out weekly
+    rules:
+      - issue-stale
+      - pr-stale
+      - discuss
+      - pr-approved-stale
+      - issue-zombies
+
+  - id: __open__
+    name: All open PR's and Issues that should be considered for repository stats (hidden)
+    used_for_statistics: true
+    hidden: true
+    rules:
+      - open-prs
+      - open-issues
+
+rules:
+  issue-stale:
+    name: "Stale Issues"
+    resolution: "Reply to, close or label the issue (ask maintainers to add to a project board, if necessary)"
+    type: issue
+    filters:
+      - updated: +24w
+
+  pr-stale:
+    name: "Stale PRs"
+    resolution: "Reply to, close or label the pull request"
+    type: pull_request
+    filters:
+      - updated: +28d
+
+  discuss:
+    name: "Items for discussion"
+    resolution: "Discuss and remove label"
+    filters:
+      - label: ".*(possible-priority|status/blocked)"
+      - state: "all"
+
+  issue-zombies:
+    name: "Screaming into the void"
+    resolution: "Reopen, or ask folks to open a new issue"
+    type: issue
+    filters:
+      - state: closed
+      - comments-while-closed: ">1"
+      - updated: "-14d"
+
+  # PR's needing closure
+  pr-approved-stale:
+    name: "Pull requests: Approved and getting old"
+    type: pull_request
+    filters:
+      - label: "approved"
+      - updated: +5d
+      - responded: +2d
+
+  # for statistics generation
+  open-issues:
+    name: "Open Issues"
+    type: issue
+
+  open-prs:
+    name: "Open PRs"
+    type: pull_request
