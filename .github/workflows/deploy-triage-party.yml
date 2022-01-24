@@ -1,0 +1,58 @@
+name: Deploy Triage Party
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    name: Build Triage Party Image
+    runs-on: ubuntu-latest
+    outputs:
+      image: ${{ steps.push.outputs.image }}
+    steps:
+    - name: Checkout Config
+      uses: actions/checkout@v2
+
+    - name: Checkout Triage Party
+      uses: actions/checkout@v2
+      with:
+        repository: google/triage-party
+        path: triage-party-source
+
+    - name: Build and Push Image
+      id: push
+      env:
+        GCR_PUSH_BOT_JSON_KEY: ${{ secrets.GCR_PUSH_BOT_JSON_KEY }}
+        IMAGE: "gcr.io/paketo-community/triage-party:latest"
+      run: |
+        docker build \
+        --tag "${IMAGE}" \
+        ./triage-party-source \
+        --build-arg "CFG=triage-party/config.yml"
+
+        echo "${GCR_PUSH_BOT_JSON_KEY}" | docker login --username _json_key --password-stdin gcr.io
+        docker push ${IMAGE}
+        echo "::set-output name=image::${IMAGE}"
+
+
+  deploy:
+    name: Deploy Triage Party
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup GCP With Auth
+      uses: google-github-actions/setup-gcloud@v0.3
+      with:
+        project_id: ${{ secrets.GCP_PROJECT_ID }}
+        service_account_key: ${{ secrets.TRIAGE_PARTY_GCP_SA_KEY }}
+        export_default_credentials: true
+
+    - name: Deploy Triage Party
+      run: ./triage-party/deploy.sh
+      env:
+        DB_PASS: ${{ secrets.PAKETO_TRIAGE_PARTY_DB_PASS }}
+        DB_USER: ${{ secrets.PAKETO_TRIAGE_PARTY_DB_USER }}
+        GITHUB_TOKEN: ${{ secrets.PAKETO_BOT_GITHUB_TOKEN }}
+        IMAGE: ${{ needs.build.outputs.image }}
+        PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+
