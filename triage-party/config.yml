@@ -24,6 +24,7 @@ settings:
     - https://github.com/paketo-buildpacks/npm-install
     - https://github.com/paketo-buildpacks/yarn-install
     - https://github.com/paketo-buildpacks/node-start
+    - https://github.com/paketo-buildpacks/node-run-script
     - https://github.com/paketo-buildpacks/yarn
     - https://github.com/paketo-buildpacks/yarn-start
     - https://github.com/paketo-buildpacks/npm-start
@@ -75,10 +76,31 @@ settings:
     - https://github.com/paketo-buildpacks/github-config
 
     # Builders
-    - https://github.com/paketo-buildpacks/builder
-    - https://github.com/paketo-buildpacks/full-builder
     - https://github.com/paketo-buildpacks/base-builder
+    - https://github.com/paketo-buildpacks/builder
+    - https://github.com/paketo-buildpacks/buildpackless-base-builder
+    - https://github.com/paketo-buildpacks/buildpackless-full-builder
+    - https://github.com/paketo-buildpacks/buildpackless-tiny-builder
+    - https://github.com/paketo-buildpacks/full-builder
     - https://github.com/paketo-buildpacks/tiny-builder
+
+    # Python
+    - https://github.com/paketo-buildpacks/conda-env-update
+    - https://github.com/paketo-buildpacks/cpython
+    - https://github.com/paketo-buildpacks/miniconda
+    - https://github.com/paketo-buildpacks/pip
+    - https://github.com/paketo-buildpacks/pip-install
+    - https://github.com/paketo-buildpacks/pipenv
+    - https://github.com/paketo-buildpacks/pipenv-install
+    - https://github.com/paketo-buildpacks/poetry
+    - https://github.com/paketo-buildpacks/poetry-install
+    - https://github.com/paketo-buildpacks/python
+    - https://github.com/paketo-buildpacks/python-start
+
+    # Content
+    - https://github.com/paketo-buildpacks/rfcs
+    - https://github.com/paketo-buildpacks/samples
+    - https://github.com/paketo-buildpacks/paketo-website
 
 
   member-roles: []

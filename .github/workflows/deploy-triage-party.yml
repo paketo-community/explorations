@@ -19,16 +19,24 @@ jobs:
         repository: google/triage-party
         path: triage-party-source
 
+    - name: Authenticate with GCR
+      env:
+        GCR_PUSH_BOT_JSON_KEY: ${{ secrets.GCR_PUSH_BOT_JSON_KEY }}
+      run: |
+        echo "${GCR_PUSH_BOT_JSON_KEY}" | docker login --username _json_key --password-stdin gcr.io
+
+    - name: Copy Paketo Config
+      run: cp ./triage-party/config.yml ./triage-party-source/config/paketo-config.yml
+
     - name: Build and Push Image
       id: push
       env:
-        GCR_PUSH_BOT_JSON_KEY: ${{ secrets.GCR_PUSH_BOT_JSON_KEY }}
         IMAGE: "gcr.io/paketo-community/triage-party:latest"
       run: |
         docker build \
         --tag "${IMAGE}" \
         ./triage-party-source \
-        --build-arg "CFG=triage-party/config.yml"
+        --build-arg "CFG=./config/paketo-config.yml"
 
         echo "${GCR_PUSH_BOT_JSON_KEY}" | docker login --username _json_key --password-stdin gcr.io
         docker push ${IMAGE}
@@ -54,5 +62,5 @@ jobs:
         DB_USER: ${{ secrets.PAKETO_TRIAGE_PARTY_DB_USER }}
         GITHUB_TOKEN: ${{ secrets.PAKETO_BOT_GITHUB_TOKEN }}
         IMAGE: ${{ needs.build.outputs.image }}
-        PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+        GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
 
