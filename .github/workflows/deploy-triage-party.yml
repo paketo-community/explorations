@@ -2,6 +2,12 @@ name: Deploy Triage Party
 
 on:
   workflow_dispatch: {}
+  push:
+    branches:
+    - main
+    paths:
+    - 'triage-party/**'
+    - '!triage-party/README.md'
 
 jobs:
   build:

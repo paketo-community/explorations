@@ -16,7 +16,13 @@ builds a triage party Docker image using [`config.yml`](./config.yml), pushes
 it to a Paketo GCR repository, and deploys the image to Google Cloud Run,
 connected to its database backend.
 
-To deploy a fresh Triage Party instance:
+### To redeploy the existing Triage Party with an updated config:
+1. Push changes to [`config.yml`](./config.yml) on `main`
+1. The redeploy workflow should trigger automatically
+Alternately, manually trigger the workflow.
+
+
+### To deploy a fresh Triage Party instance:
 1. Create and push a new triage-party image.
 1. Create Google Cloud SQL MySQL instance. Add an empty database for triage
    party data to that instance.

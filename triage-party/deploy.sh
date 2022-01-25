@@ -101,7 +101,6 @@ function check_env_vars() {
   fi
 
   if [[ -z "${GCP_PROJECT_ID-}" ]]; then
-readonly GCP_PROJECT_ID="${GCP_PROJECT_ID:-paketo-community}"
     echo -e "Environment variable \$GCP_PROJECT_ID is required" >&2
     exit 1
   fi
