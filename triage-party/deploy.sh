@@ -95,11 +95,6 @@ function check_env_vars() {
     exit 1
   fi
 
-  if [[ -z "${DB_IP-}" ]]; then
-    echo -e "Environment variable \$DB_IP is required" >&2
-    exit 1
-  fi
-
   if [[ -z "${GCP_PROJECT_ID-}" ]]; then
     echo -e "Environment variable \$GCP_PROJECT_ID is required" >&2
     exit 1
