@@ -44,7 +44,6 @@ jobs:
         ./triage-party-source \
         --build-arg "CFG=./config/paketo-config.yml"
 
-        echo "${GCR_PUSH_BOT_JSON_KEY}" | docker login --username _json_key --password-stdin gcr.io
         docker push ${IMAGE}
         echo "::set-output name=image::${IMAGE}"
 
