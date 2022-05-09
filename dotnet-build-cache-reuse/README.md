@@ -18,3 +18,14 @@ docker run -it -v $(pwd):/test \
                mcr.microsoft.com/dotnet/sdk:3.1-bionic \
                /test/dotnet-build-cache
   ```
+
+## Testing `dotnet publish` behaviour manually (on Linux)
+On Linux, it appears that the issue only occurs when orchestrated through
+Golang. When run manually or through a bash script, the failure does not crop
+up.
+
+Running the following appears to have the expected effects, in which the app
+serves the updated content:
+```
+./manual.sh --dir <path to some temporary directory"
+```
