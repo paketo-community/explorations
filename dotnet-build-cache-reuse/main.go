@@ -115,7 +115,7 @@ func main() {
 		log.Fatal("Must set $APP_SOURCE")
 	}
 
-	source, err := occam.Source(os.Getenv("APP_SOURCE"))
+	source1, err := occam.Source(os.Getenv("APP_SOURCE"))
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -150,14 +150,19 @@ func main() {
 		log.Fatal(err)
 	}
 
-	err = dotnet.Execute(source, dotnetRoot, nugetCache, buildCache, "", output1, []string{})
+	err = dotnet.Execute(source1, dotnetRoot, nugetCache, buildCache, "", output1, []string{})
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	fmt.Println(output1)
 
-	file, err := os.Open(filepath.Join(source, "Program.cs"))
+	source2, err := occam.Source(os.Getenv("APP_SOURCE"))
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	file, err := os.Open(filepath.Join(source2, "Program.cs"))
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -170,7 +175,7 @@ func main() {
 
 	contents = bytes.Replace(contents, []byte("Hello World!"), []byte("Hello Moon!"), 1)
 
-	err = os.WriteFile(filepath.Join(source, "Program.cs"), contents, os.ModePerm)
+	err = os.WriteFile(filepath.Join(source2, "Program.cs"), contents, os.ModePerm)
 	file.Close()
 
 	if err != nil {
@@ -186,7 +191,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	err = dotnet.Execute(source, dotnetRoot, nugetCache, buildCache, "", output2, []string{})
+	err = dotnet.Execute(source2, dotnetRoot, nugetCache, buildCache, "", output2, []string{})
 	if err != nil {
 		log.Fatal(err)
 	}
