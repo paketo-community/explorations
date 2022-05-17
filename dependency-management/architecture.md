@@ -1,4 +1,4 @@
-#System Architecture Brainstorm
+# System Architecture Brainstorm
 
 ### Current system:
 1. Dep-server has a list of `known-versions` for each dependency in GCP
@@ -29,7 +29,10 @@
    - When possible, the dependency comes directly from source
    - If processing of any kind is needed, it happens here. It should be easily
      runnable from a local workstation as well.
-   - (?) Stacks for compatibility are passed in from the buildpack
+   - TODO: (?) Stacks for compatibility are passed in from the buildpack
+     If a non-default architecture is used (like ARM64) we may be able to have
+     an ARM64 VM with Docker installed, and then expose Docker to the internet
+     to avoid needing a runner
 4. Any compilation/processing code comes from the buildpack repository
 5. Test is run against the dependency, whether it is compiled or not.
    Processed/compiled dependencies are uploaded to an S3 bucket, accessible via buildpack maintainers (?)
@@ -60,7 +63,7 @@
    * Compile or process the version (if needed)
      * Upload the compiled dependency to an S3 bucket if needed
    * Run a smoke test against the dependency
-   * Gather metdata about the dependency (purl, CPE, licenses, etc)
+   * Gather metdata about the dependency (purl, CPE, licenses, etc) and upload to S3 bucket
    * Publish metadata to dep-server
 
    Action 1: Grab the dependency from source
@@ -73,7 +76,7 @@
    Function: Retrieve the dependency of interest for the workflow
 
    Action 2: Run processing/compilation on the dependency 
-   *MAY NEED TO SET UP A RUNNER FOR DIFF ARCH?
+   TODO: *MAY NEED TO SET UP A RUNNER FOR DIFF ARCH?
    Inputs:
    * dependency from Action 1
    * OS/Arch (from buildpack)
@@ -84,7 +87,8 @@
    * dependency from Action 2
    * credentials for S3 Bucket
    * S3 bucket location
-   Function: upload dependency to an S3 bucket
+   Function: upload dependency to an S3 bucket that is owned by the buildpack
+   team, and is accessible by the dep-server
 
    Action 4: Gather metadata
    * name
@@ -93,3 +97,7 @@
    * source URI
    Function: generate all metadata for the dependency: SHA256, source URI, URI,
    semantic version, CPE, licenses, pURL deprecation date, ID
+   Also should calculate SHA256 if there isn't one provided
+
+   ## TODO: investigate
+   Action 5: Set up and expose VM with alternative architecture/Docker for testing

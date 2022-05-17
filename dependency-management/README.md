@@ -24,3 +24,8 @@ https://github.com/paketo-community/explorations/issues/8.
    - if a change is needed to our project-wide approach, dependencies maintaienrs should be the owners
    - infrastructure/buckets are owned by the project, but users can set their own instances up easily
 
+
+TODOs:
+- Who will pay for buckets?
+- GHA slowdowns?
+- Stacks and architecture questions
