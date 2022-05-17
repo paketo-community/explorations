@@ -29,3 +29,4 @@ TODOs:
 - Who will pay for buckets?
 - GHA slowdowns?
 - Stacks and architecture questions
+- Test out ARM64 on GHA
