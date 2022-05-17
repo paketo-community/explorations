@@ -35,3 +35,61 @@
    Processed/compiled dependencies are uploaded to an S3 bucket, accessible via buildpack maintainers (?)
 6. Metadata is gathered in step 5 alongside compilation and is uploaded to the same bucket (?) (I think we can do better than this)
 7. TODO: dep-server app could be a lot clearer.
+
+### Workflow/Actions
+1. Get new versions
+   Workflow:
+   * Runs in each buildpack automation on a timer
+   * Get new versions
+   * Update known versions
+   * Trigger build workflows for each version
+   
+   Action: Get New Versions
+   Action inputs:
+   * dependency name
+   * source URI to pick up new versions from
+   * known versions list (from a file in the buildpack?)
+   * dependency-specific source scanning code (from the buildpack)
+   Action function:
+   * pick up new versions of the dependency
+   * can be run locally: `go run main.go --name --source-uri --known-versions-file --scanning-logic-file`
+
+2. Build dependency and gather metadata
+   Workflow:
+   * Grab new version
+   * Compile or process the version (if needed)
+     * Upload the compiled dependency to an S3 bucket if needed
+   * Run a smoke test against the dependency
+   * Gather metdata about the dependency (purl, CPE, licenses, etc)
+   * Publish metadata to dep-server
+
+   Action 1: Grab the dependency from source
+   Inputs:
+   * name
+   * uri (from buildpack)
+   * version (from workflow dispatch)
+   * OS (from buildpack)
+   * architecture (from buildpack)
+   Function: Retrieve the dependency of interest for the workflow
+
+   Action 2: Run processing/compilation on the dependency 
+   *MAY NEED TO SET UP A RUNNER FOR DIFF ARCH?
+   Inputs:
+   * dependency from Action 1
+   * OS/Arch (from buildpack)
+   * dependency compilation code file path (from buildpack)
+   Function: compile or process the dependency
+
+   Action 3: Upload the dependency to an S3 bucket
+   * dependency from Action 2
+   * credentials for S3 Bucket
+   * S3 bucket location
+   Function: upload dependency to an S3 bucket
+
+   Action 4: Gather metadata
+   * name
+   * version
+   * dependency from Action 1 or 2
+   * source URI
+   Function: generate all metadata for the dependency: SHA256, source URI, URI,
+   semantic version, CPE, licenses, pURL deprecation date, ID
