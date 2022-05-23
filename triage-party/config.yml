@@ -41,10 +41,18 @@ settings:
     # PHP
     - https://github.com/paketo-buildpacks/php
     - https://github.com/paketo-buildpacks/php-dist
-    - https://github.com/paketo-buildpacks/php-web
-    - https://github.com/paketo-buildpacks/php-composer
+    - https://github.com/paketo-buildpacks/php-httpd
+    - https://github.com/paketo-buildpacks/php-nginx
+    - https://github.com/paketo-buildpacks/php-builtin-server
+    - https://github.com/paketo-buildpacks/php-fpm
+    - https://github.com/paketo-buildpacks/php-start
+    - https://github.com/paketo-buildpacks/php-redis-session-handler
+    - https://github.com/paketo-buildpacks/php-memcached-session-handler
+    - https://github.com/paketo-buildpacks/composer
+    - https://github.com/paketo-buildpacks/composer-install
 
     # Web
+    - https://github.com/paketo-buildpacks/web-servers
     - https://github.com/paketo-buildpacks/httpd
     - https://github.com/paketo-buildpacks/nginx
 
@@ -73,6 +81,7 @@ settings:
     # Tooling/utilities
     - https://github.com/paketo-buildpacks/packit
     - https://github.com/paketo-buildpacks/occam
+    - https://github.com/paketo-buildpacks/jam
     - https://github.com/paketo-buildpacks/github-config
 
     # Builders
