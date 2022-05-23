@@ -101,3 +101,27 @@
 
    ## TODO: investigate
    Action 5: Set up and expose VM with alternative architecture/Docker for testing
+
+### Idea 2: Let's cut out the buildpack.toml for dependencies we can pull from source.
+1. There is no concept of known-versions at all unless a user wants to support an offline scenario (TODO: what does that look like?)
+2. Buildpack never polls for new versions, the buildpack.toml does not contain dependencies or dependency metadata
+3. When a build runs, the buildpack contains some code that:
+   - hits a specified endpoint and gets all available versions for the stack
+     being used, basically what dep-server/pkg/dependency code does
+   - finds the compatible version if a version was requested (via an env var for example)
+   - If processing of any kind is needed, it happens here. It should be easily
+     runnable from a local workstation as well.
+   - calculates and gets all metadata for the dependency: SHA256, source URI, licenses, CPE
+   - creates a packit-type dependency struct
+   - continues to install the dependency as it is right now with packit
+Pros:
+- don't have to track versions at all
+- cut a lot of automation
+- can support all versions!!!!!!!
+- slims down the buildpack.toml
+- pairs well with the federated model
+Cons:
+- offline case is complicated
+- adds a lot of logic to the buildpack itself
+- no testing of the dependency
+- supporting all versions may cause buildpack behaviour to fail in some cases
