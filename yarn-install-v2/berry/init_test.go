@@ -1,0 +1,20 @@
+package berry_test
+
+import (
+	"testing"
+
+	"github.com/sclevine/spec"
+	"github.com/sclevine/spec/report"
+)
+
+func TestUnitYarn(t *testing.T) {
+	suite := spec.New("yarn", spec.Report(report.Terminal{}))
+	suite("Build", testBuild)
+	suite("CacheHandler", testCacheHandler)
+	suite("InstallProcess", testInstallProcess)
+	suite("PackageJSONParser", testPackageJSONParser)
+	suite("PackageManagerConfigurationManager", testPackageManagerConfigurationManager)
+	suite("ProjectPathParser", testProjectPathParser)
+	suite("Symlinker", testSymlinker)
+	suite.Run(t)
+}

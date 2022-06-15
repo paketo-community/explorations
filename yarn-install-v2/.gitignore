@@ -1,0 +1,7 @@
+/*.tgz
+.DS_Store
+.idea
+/.bin
+/bin/
+
+!offline-mirror/
