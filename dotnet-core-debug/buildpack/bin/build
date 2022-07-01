@@ -1,0 +1,39 @@
+#!/bin/bash
+
+set -e
+set -u
+set -o pipefail
+
+LAYERDIR="/layers/paketo-buildpacks_vsdbg/vsdbg"
+readonly LAYERDIR
+
+function main() {
+  echo "Paketo Visual Studio Debugger Buildpack"
+
+  local os version
+  os="linux-x64"
+  version="17-2-10518-1"
+
+  echo "  Downloading dependency..."
+  curl -sSL "https://vsdebugger.azureedge.net/vsdbg-${version}/vsdbg-${os}.tar.gz" -o "/tmp/vsdbg.tgz"
+
+  echo "  Unpacking dependency..."
+  mkdir -p "${LAYERDIR}/vsdbg"
+  tar xzf "/tmp/vsdbg.tgz" -C "${LAYERDIR}/vsdbg"
+  chmod +x "${LAYERDIR}/vsdbg/vsdbg"
+
+  echo "Configuring environment..."
+  mkdir -p "${LAYERDIR}/env"
+  printf "%s" ":" > "${LAYERDIR}/env/PATH.delim"
+  printf "%s" "${LAYERDIR}/vsdbg" > "${LAYERDIR}/env/PATH.append"
+
+  cat <<-TOML > "${LAYERDIR}.toml"
+[types]
+  launch = true
+TOML
+
+  echo "  Cleaning up..."
+  rm "/tmp/vsdbg.tgz"
+}
+
+main "${@:-}"
