@@ -31,26 +31,9 @@ func Detect(projectPathParser PathParser, versionParser VersionParser) packit.De
 			return packit.DetectResult{}, err
 		}
 
-		berry, classic := true, true
-
-		_, err = os.Stat(filepath.Join(projectPath, ".yarnrc.yml"))
-		if err != nil {
-			if errors.Is(err, os.ErrNotExist) {
-				berry = false
-			}
-			return packit.DetectResult{}, err
-		}
-
 		_, err = os.Stat(filepath.Join(projectPath, "yarn.lock"))
 		if err != nil {
-			if errors.Is(err, os.ErrNotExist) {
-				classic = false
-			}
 			return packit.DetectResult{}, err
-		}
-
-		if !berry && !classic {
-			return packit.DetectResult{}, packit.Fail
 		}
 
 		nodeVersion, err := versionParser.ParseVersion(filepath.Join(projectPath, "package.json"))
@@ -92,16 +75,6 @@ func Detect(projectPathParser PathParser, versionParser VersionParser) packit.De
 				Requires: []packit.BuildPlanRequirement{
 					nodeRequirement,
 					yarnRequirement,
-				},
-				Or: []packit.BuildPlan{
-					{
-						Provides: []packit.BuildPlanProvision{
-							{Name: PlanDependencyYarnPackages},
-						},
-						Requires: []packit.BuildPlanRequirement{
-							nodeRequirement,
-						},
-					},
 				},
 			},
 		}, nil

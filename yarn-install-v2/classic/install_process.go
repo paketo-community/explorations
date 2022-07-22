@@ -24,12 +24,12 @@ type Executable interface {
 }
 
 type YarnInstallProcess struct {
-	executable Executable
+	executable []Executable
 	summer     Summer
 	logger     scribe.Logger
 }
 
-func NewYarnInstallProcess(executable Executable, summer Summer, logger scribe.Logger) YarnInstallProcess {
+func NewYarnInstallProcess(summer Summer, logger scribe.Logger, executable ...Executable) YarnInstallProcess {
 	return YarnInstallProcess{
 		executable: executable,
 		summer:     summer,
@@ -38,6 +38,40 @@ func NewYarnInstallProcess(executable Executable, summer Summer, logger scribe.L
 }
 
 func (ip YarnInstallProcess) ShouldRun(workingDir string, metadata map[string]interface{}) (run bool, sha string, err error) {
+
+	// env := os.Environ()
+	// env = append(env, fmt.Sprintf("COREPACK_HOME=%s", workingDir))
+
+	// cpBuffer := bytes.NewBuffer(nil)
+
+	// _, err = os.Stat(filepath.Join(workingDir, "corepack.tgz"))
+	// if err != nil {
+	// 	if errors.Is(err, os.ErrNotExist) {
+	// 		panic(err)
+	// 	}
+	// 	panic(err)
+	// }
+
+	// err = ip.executable[1].Execute(pexec.Execution{
+	// 	Args:   []string{"hydrate", "./corepack.tgz"},
+	// 	Stdout: cpBuffer,
+	// 	Stderr: cpBuffer,
+	// 	Dir:    workingDir,
+	// 	Env:    env,
+	// })
+	// if err != nil {
+	// 	return true, "", fmt.Errorf("failed to execute corepack hydrate output:\n%s\nerror: %s", cpBuffer.String(), err)
+	// }
+
+	// err = ip.executable[1].Execute(pexec.Execution{
+	// 	Args:   []string{"enable"},
+	// 	Stdout: cpBuffer,
+	// 	Stderr: cpBuffer,
+	// 	Dir:    workingDir,
+	// })
+	// if err != nil {
+	// 	return true, "", fmt.Errorf("failed to execute corepack enable output:\n%s\nerror: %s", cpBuffer.String(), err)
+	// }
 	ip.logger.Subprocess("Process inputs:")
 
 	_, err = os.Stat(filepath.Join(workingDir, "yarn.lock"))
@@ -54,7 +88,7 @@ func (ip YarnInstallProcess) ShouldRun(workingDir string, metadata map[string]in
 
 	buffer := bytes.NewBuffer(nil)
 
-	err = ip.executable.Execute(pexec.Execution{
+	err = ip.executable[0].Execute(pexec.Execution{
 		Args:   []string{"config", "list", "--silent"},
 		Stdout: buffer,
 		Stderr: buffer,
@@ -125,7 +159,7 @@ func (ip YarnInstallProcess) Execute(workingDir, modulesLayerPath string, launch
 	environment = append(environment, fmt.Sprintf("PATH=%s%c%s", os.Getenv("PATH"), os.PathListSeparator, filepath.Join("node_modules", ".bin")))
 
 	buffer := bytes.NewBuffer(nil)
-	err := ip.executable.Execute(pexec.Execution{
+	err := ip.executable[0].Execute(pexec.Execution{
 		Args:   []string{"config", "get", "yarn-offline-mirror"},
 		Stdout: buffer,
 		Stderr: buffer,
@@ -165,7 +199,7 @@ func (ip YarnInstallProcess) Execute(workingDir, modulesLayerPath string, launch
 	ip.logger.Subprocess("Running yarn %s", strings.Join(installArgs, " "))
 
 	buffer = bytes.NewBuffer(nil)
-	err = ip.executable.Execute(pexec.Execution{
+	err = ip.executable[0].Execute(pexec.Execution{
 		Args:   installArgs,
 		Env:    environment,
 		Stdout: buffer,
