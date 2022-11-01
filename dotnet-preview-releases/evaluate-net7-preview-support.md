@@ -28,13 +28,16 @@ There is no specified way to check for versions of prerelease with wildcards. Ho
 
 Additional logic will be needed to better handle wildcards and rollforward, with specific attention to the inclusion of prereleases
 
+> **_Note_**: there is a section `[[metadata.dependency-constraints]]` which is present for .net core 3.1 and .net 6, however this does not need to be present for tests to pass
+
 ### [dotnet-core-sdk](https://github.com/KieranJeffreySmart/dotnet-core-sdk)
 Adding a dependency involved updating the `buildpack.toml` file to include a uri and sha512 checksum for the microsoft download of .net 7 rc.2 runtime.
 Existing tests were duplicated and references to .net 6 were replaced with .net 7 rc.2, in `./integration/default_net7_test.go`, `./integration/layer_net7_reuse.go` and `./integrationoffline_net7_test.go`, excluding tests for using `BP_DOTNET_FRAMEWORK_VERSION`.
-To test `BP_DOTNET_FRAMEWORK_VERSION` I added a test for .Net 7 which initially failed due to the specified version number, `7.0.100-rc.2.22477.23`, being reformatted to `7.0.*`. This led me to add the following line to `./build.go`: `if (version == "7.0.*") { version = "7.0.100-rc.2.22477.23" }` to override this formatting
+To test `BP_DOTNET_FRAMEWORK_VERSION` I added a test for .Net 7 which failed due to the specified version number, `7.0.100-rc.2.22477.23`, being reformatted to `7.0.*`. This was unexpected, as 7.0.100-rc should be considered a higher version than 7.0.0 but it seems the prerelease version was ignored. This led me to modifying `./build.go` to override the formatting
 
 Setting the value of `[metadata.default-versions].dotnet-sdk` in `buildpack.toml` to `7.0.100-rc.2.22477.23`, allows the tests to run using the .net 7 framework, however this causes .net 6 tests to fail
-> **_Note_**: I tried to set the value of `BP_DOTNET_FRAMEWORK_VERSION` to `7.0.0-0` but this failed to roll forward.
+
+> **_Note_**: Setting the value of `BP_DOTNET_FRAMEWORK_VERSION` or hard coding `./build.go` to use `7.0.0-0` failed to roll forward, but instead looked for an exact match.
 
 > **_Note_**: there is a section `[[metadata.dependency-constraints]]` which is present for .net core 3.1 and .net 6, however this does not need to be present for tests to pass
 
