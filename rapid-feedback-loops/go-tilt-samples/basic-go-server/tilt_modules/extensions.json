@@ -1,0 +1,9 @@
+{
+  "Extensions": [
+    {
+      "Name": "pack",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-10-28T11:05:45.593152-04:00"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+load('ext://pack', 'pack')
+
+k8s_yaml('kubernetes.yaml')
+k8s_resource('node-server-prototype', port_forwards=5000)
+trigger_mode(TRIGGER_MODE_MANUAL)
+pack('node-server-prototype-image', buildpacks=[
+                                "gcr.io/paketo-buildpacks/watchexec",
+                                "gcr.io/paketo-buildpacks/nodejs",
+                                "gcr.io/paketo-community/build-plan",
+                                ],
+                                live_update=[
+                                sync('.', '/workspace'),
+                                ])

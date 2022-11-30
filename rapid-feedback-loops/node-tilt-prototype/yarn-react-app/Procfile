@@ -1,0 +1,1 @@
+web: watchexec --verbose --restart --watch /workspace --ignore /workspace/node_modules --ignore /workspace/package.json --ignore /workspace/yarn.lock 'react-scripts start'

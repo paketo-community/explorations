@@ -1,0 +1,22 @@
+load('ext://pack', 'pack')
+
+# (Re)build locally with local resource
+local_resource('dotnet-publish', cmd='rm -rf ./build && dotnet publish src --configuration Release --runtime ubuntu.18.04-x64 --self-contained false --output ./build', deps=['src'], ignore=['src/obj', 'src/bin'])
+
+# spec for containers on k8s
+k8s_yaml('deploy/deployment.yaml')
+k8s_resource('dotnet-prototype', port_forwards='8080:80', resource_deps=['dotnet-publish'])
+
+pack('dotnet-prototype-image', buildpacks=[
+                                "gcr.io/paketo-buildpacks/watchexec",
+                                "gcr.io/paketo-buildpacks/dotnet-core",
+                                "gcr.io/paketo-community/build-plan"
+                                ],
+                                env_vars=['BP_DOTNET_PROJECT_PATH="./src"'],
+                                live_update=[
+                                sync('./build', '/workspace/build'),
+                                sync('./src', '/workspace/src'),
+                                run('cp /workspace/build/* /workspace/', trigger='./build')
+                                ],
+                                ignore=['deploy', 'Tiltfile', 'tilt_modules', 'README.md'])
+

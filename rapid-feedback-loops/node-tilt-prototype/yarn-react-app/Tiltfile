@@ -1,0 +1,15 @@
+load('ext://pack', 'pack')
+
+# spec for containers on k8s
+k8s_yaml('kubernetes.yaml')
+k8s_resource('nodejs-prototype', port_forwards=3000)
+trigger_mode(TRIGGER_MODE_MANUAL)
+pack('nodejs-prototype-image', buildpacks=[
+                                "gcr.io/paketo-buildpacks/watchexec",
+                                "gcr.io/paketo-buildpacks/nodejs",
+                                "gcr.io/paketo-community/build-plan",
+                                ],
+                                live_update=[
+                                sync('.', '/workspace'),
+                                run('cd /workspace && /cnb/lifecycle/launcher yarn install --silent', trigger=['./package.json','./yarn.lock']),
+                                ])
