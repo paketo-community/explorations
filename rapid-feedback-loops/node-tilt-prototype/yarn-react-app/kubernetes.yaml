@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nodejs-prototype
+  labels:
+    app: nodejs-prototype
+spec:
+  selector:
+    matchLabels:
+      app: nodejs-prototype
+  template:
+    metadata:
+      labels:
+        app: nodejs-prototype
+    spec:
+      containers:
+        - name: nodejs-prototype
+          image: nodejs-prototype-image
+          ports:
+            - containerPort: 3000

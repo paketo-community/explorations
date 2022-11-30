@@ -1,0 +1,20 @@
+load('ext://pack', 'pack')
+
+# (Re)build locally with local resource
+local_resource('go-build', cmd='GOOS=linux GOARCH=amd64 go build -o ./build/ -buildmode pie .', deps=['main.go', 'go.mod', 'go.sum'])
+
+# spec for containers on k8s
+k8s_yaml('deploy/deployment.yaml')
+k8s_resource('go-prototype', port_forwards='8080:8080', resource_deps=['go-build'])
+
+pack('go-prototype-image', builder="gcr.io/paketo-buildpacks/builder:buildpackless-base", buildpacks=[
+                                "gcr.io/paketo-buildpacks/watchexec",
+                                "gcr.io/paketo-buildpacks/go",
+                                "gcr.io/paketo-community/build-plan"
+                                ],
+                                live_update=[
+                                sync('.', '/workspace'),
+                                run('cp -rf /workspace/build/* /layers/paketo-buildpacks_go-build/targets/bin', trigger=['./build']),
+                                ],
+                                ignore=['deploy', 'Tiltfile', 'tilt_modules', 'README.md'])
+

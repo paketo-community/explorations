@@ -1,0 +1,23 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: node-server-prototype
+  labels:
+    app: node-server-prototype
+spec:
+  selector:
+    matchLabels:
+      app: node-server-prototype
+  template:
+    metadata:
+      labels:
+        app: node-server-prototype
+    spec:
+      containers:
+        - name: node-server-prototype
+          image: node-server-prototype-image
+          ports:
+            - containerPort: 8080
+          env:
+            - name: "PORT"
+              value: "8080"

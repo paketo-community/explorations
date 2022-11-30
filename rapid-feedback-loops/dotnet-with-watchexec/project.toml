@@ -1,0 +1,14 @@
+[build]
+exclude = [
+    "build/",
+]
+
+[[build.buildpacks]]
+uri = "gcr.io/paketo-buildpacks/watchexec"
+
+[[build.buildpacks]]
+uri = "gcr.io/paketo-buildpacks/dotnet-core"
+
+[[build.buildpacks]]
+uri = "gcr.io/paketo-community/build-plan"
+

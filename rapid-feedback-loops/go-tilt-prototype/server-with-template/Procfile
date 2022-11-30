@@ -1,0 +1,1 @@
+web: watchexec --verbose --restart --watch /layers/paketo-buildpacks_go-build/targets/bin --watch /workspace '/layers/paketo-buildpacks_go-build/targets/bin/tilt-example-go'
