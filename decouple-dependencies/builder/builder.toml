@@ -1,0 +1,18 @@
+description = "Custom builder to explore if dependency metadata can be injected into the builder image"
+
+[[buildpacks]]
+  uri = "../decoupled-buildpack/build/buildpackage.cnb"
+
+[lifecycle]
+  version = "0.16.1"
+
+[[order]]
+
+  [[order.group]]
+    id = "paketo-community/decoupled-buildpack"
+
+[stack]
+  build-image = "extended-build"
+  id = "io.buildpacks.stacks.jammy"
+  run-image = "index.docker.io/paketobuildpacks/run-jammy-base:latest"
+  run-image-mirrors = []

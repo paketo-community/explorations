@@ -46,3 +46,20 @@ Expected valued should look like:
 go version go1.19.6 linux/amd64
 ```
 
+## Via a Builder
+1. Build extended build image:
+```
+cd custom-stack && docker build -f extend.Dockerfile -t extended-build . && cd ..
+```
+1. Build the decoupled buildpack:
+```
+./decoupled-buildpack/scripts/package.sh --version 1.2.3
+```
+1. Create the builder with embedded dependency metadata:
+```
+pack builder create test-builder --config builder/builder.toml
+```
+1. Build a container using the builder:
+```
+ pack build test --builder test-builder
+```

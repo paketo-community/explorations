@@ -1,0 +1,8 @@
+[[versions]]
+    checksum = "sha256:e3410c676ced327aec928303fef11385702a5562fd19d9a1750d5a2979763c3d"
+    cpes = ["cpe:2.3:a:golang:go:1.19.6:*:*:*:*:*:*:*"]
+    name = "Go"
+    purl = "pkg:generic/go@go1.19.6?checksum=e3410c676ced327aec928303fef11385702a5562fd19d9a1750d5a2979763c3d&download_url=https://go.dev/dl/go1.19.6.linux-amd64.tar.gz"
+    strip-components = 1
+    uri = "https://go.dev/dl/go1.19.6.linux-amd64.tar.gz"
+    version = "1.19.6"

@@ -1,7 +1,7 @@
 api = "0.7"
 
 [buildpack]
-  id = "paketo-community/decoupled-dependencies"
+  id = "paketo-community/decoupled-buildpack"
   name = "Decoupled Dependencies Buildpack"
 
   [[buildpack.licenses]]
