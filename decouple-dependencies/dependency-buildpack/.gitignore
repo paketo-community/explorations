@@ -1,0 +1,6 @@
+.bin
+/build
+/bin/
+*.tgz
+go-cnb_*
+go-compiler-cnb_*

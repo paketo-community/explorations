@@ -1,0 +1,12 @@
+api = "0.7"
+
+[buildpack]
+  id = "paketo-community/dependency-buildpack"
+  name = "Dependency Buildpack"
+
+[metadata]
+  include-files = ["bin/run", "bin/build", "bin/detect", "buildpack.toml", "dependency.tgz"]
+  pre-package = "./scripts/build.sh"
+
+[[stacks]]
+  id = "*"
