@@ -46,7 +46,7 @@ Expected valued should look like:
 go version go1.19.6 linux/amd64
 ```
 
-## Via a Builder
+## Via Stack Extension, via a Builder
 NOTE: You need to be using a `pack` that supports platform API `0.11` which
 currently is currently `0.30.0-pre1` and greater
 
